@@ -1,8 +1,10 @@
 # PawPawPulation
 
+![Gesturing at PawPAw](https://www.niagaranow.com/images/news/Paw_Paws.jpg)
+
 ## Introduction
 
-This repository contains general examples of commonly used ecological genetic methods, a meta-methods-review repository of sorts. Workflows and softwares commonly used in ecological genetics research are demonstrated here. The purpose in designing this directory was to establish a one-stop-shop for anyone looking to familiarize themselves with ecological genetic methods and for those considering what analyses to use in their research.
+This repository contains general examples of commonly used ecological genetic methods, it is a meta-methods-review repository of sorts. Workflows and softwares commonly used in ecological genetics research are demonstrated here. The purpose in designing this directory was to establish a one-stop-shop for anyone looking to familiarize themselves with ecological genetic methods and for those considering what analyses to use in their research.
 
 A microsatellite dataset considering influences of dispersal of the North American native *Asimina triloba* is used in each method demonstration[^fn1].
 
