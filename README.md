@@ -39,7 +39,12 @@ Linkage disequilibrium (LD), sometimes referred to as gametic phase disequilibri
 
 ## Software/Packages/Tools
 
-###
+# Need help?
+We want to make it super-easy for Snowplow users and contributors to talk to us and connect with each other, to share ideas, solve problems and help make PawPawPulaion an awesome resource. Here are the main channels we're running currently, we'd love to hear from you on one of them:
+
+# GitHub
+If you spot any issues please raise an issue in the GitHub repository of the analysis in question. Furthermore if you have run an analysis not detailed here or you have improved an existing workflow, with the pawpaw data, please open a pull request and we'll be glad to consider your analysis for integration in the project!
+
 
 [^fn1]: Wyatt, G. E., Hamrick, J. L., & Trapnell, D. W. (2021). The role of anthropogenic dispersal in shaping the distribution and genetic composition of a widespread North American tree species. Ecology and evolution, 11(16), 11515–11532. https://doi.org/10.1002/ece3.7944
 [^fn2]: Slatkin M. Linkage disequilibrium--understanding the evolutionary past and mapping the medical future. Nat Rev Genet. 2008 Jun;9(6):477-85. doi: 10.1038/nrg2361. PMID: 18427557; PMCID: PMC5124487.
