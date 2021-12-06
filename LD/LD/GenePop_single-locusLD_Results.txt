@@ -1,0 +1,3010 @@
+Genepop 4.7.5, Genotypic linkage disequilibrium
+
+File: 061438 (Title line:"")
+
+Number of populations detected : 82
+Number of loci detected        : 9
+
+Markov chain parameters
+	Dememorisation       : 1000
+	Batches              : 100
+	Iterations per batch : 1000
+
+Pop             Locus#1  Locus#2    P-Value      S.E.     Switches
+----------      -------  -------    --------     -------- --------
+Pop1            108      G4         No contingency table
+Pop1            108      103        No contingency table
+Pop1            G4       103        No contingency table
+Pop1            108      119        0.24372      0.003986    14303
+Pop1            G4       119        No contingency table
+Pop1            103      119        No contingency table
+Pop1            108      121        0.070730     0.003906    15833
+Pop1            G4       121        No contingency table
+Pop1            103      121        No contingency table
+Pop1            119      121        0.124770     0.002288    16768
+Pop1            108      124        0.246940     0.004224    14541
+Pop1            G4       124        No contingency table
+Pop1            103      124        No contingency table
+Pop1            119      124        0.125120     0.001688    12490
+Pop1            121      124        0.122600     0.002090    16558
+Pop1            108      B103       1.000000     0.000000    27751
+Pop1            G4       B103       No contingency table
+Pop1            103      B103       No contingency table
+Pop1            119      B103       1.000000     0.000000    28636
+Pop1            121      B103       1.000000     0.000000    31724
+Pop1            124      B103       1.000000     0.000000    28680
+Pop1            108      B108       No data      
+Pop1            G4       B108       No data      
+Pop1            103      B108       No data      
+Pop1            119      B108       No data      
+Pop1            121      B108       No data      
+Pop1            124      B108       No data      
+Pop1            B103     B108       No data      
+Pop1            108      B128       1.000000     0.000000    18022
+Pop1            G4       B128       No contingency table
+Pop1            103      B128       No contingency table
+Pop1            119      B128       1.000000     0.000000    21074
+Pop1            121      B128       1.000000     0.000000    21424
+Pop1            124      B128       1.000000     0.000000    20752
+Pop1            B103     B128       0.143910     0.001732    42753
+Pop1            B108     B128       No data      
+Pop2            108      G4         1.000000     0.000000    27135
+Pop2            108      103        0.418020     0.005419    15568
+Pop2            G4       103        1.000000     0.000000    24091
+Pop2            108      119        1.000000     0.000000     5756
+Pop2            G4       119        1.000000     0.000000    15201
+Pop2            103      119        No information
+Pop2            108      121        1.000000     0.000000     4887
+Pop2            G4       121        0.286910     0.010960    12919
+Pop2            103      121        No information
+Pop2            119      121        1.000000     0.000000     1586
+Pop2            108      124        1.000000     0.000000     6128
+Pop2            G4       124        0.637440     0.007695    15570
+Pop2            103      124        No information
+Pop2            119      124        0.153920     0.016919     2998
+Pop2            121      124        1.000000     0.000000     1982
+Pop2            108      B103       1.000000     0.000000     5285
+Pop2            G4       B103       1.000000     0.000000    12581
+Pop2            103      B103       1.000000     0.000000    14335
+Pop2            119      B103       1.000000     0.000000     2011
+Pop2            121      B103       1.000000     0.000000     1329
+Pop2            124      B103       1.000000     0.000000     1984
+Pop2            108      B108       0.307080     0.013983     7546
+Pop2            G4       B108       0.654210     0.008659    15560
+Pop2            103      B108       1.000000     0.000000    14239
+Pop2            119      B108       1.000000     0.000000     2987
+Pop2            121      B108       1.000000     0.000000     1906
+Pop2            124      B108       1.000000     0.000000     2952
+Pop2            B103     B108       1.000000     0.000000     1986
+Pop2            108      B128       1.000000     0.000000     5325
+Pop2            G4       B128       1.000000     0.000000    14020
+Pop2            103      B128       0.663880     0.005112    16738
+Pop2            119      B128       1.000000     0.000000     3882
+Pop2            121      B128       No information
+Pop2            124      B128       1.000000     0.000000     2877
+Pop2            B103     B128       1.000000     0.000000     2937
+Pop2            B108     B128       1.000000     0.000000     3860
+Pop3            108      G4         No contingency table
+Pop3            108      103        No contingency table
+Pop3            G4       103        No contingency table
+Pop3            108      119        No contingency table
+Pop3            G4       119        No contingency table
+Pop3            103      119        No contingency table
+Pop3            108      121        No contingency table
+Pop3            G4       121        No contingency table
+Pop3            103      121        No contingency table
+Pop3            119      121        No contingency table
+Pop3            108      124        No contingency table
+Pop3            G4       124        No contingency table
+Pop3            103      124        No contingency table
+Pop3            119      124        No contingency table
+Pop3            121      124        No information
+Pop3            108      B103       No contingency table
+Pop3            G4       B103       No contingency table
+Pop3            103      B103       No contingency table
+Pop3            119      B103       No contingency table
+Pop3            121      B103       No information
+Pop3            124      B103       No information
+Pop3            108      B108       No contingency table
+Pop3            G4       B108       No contingency table
+Pop3            103      B108       No contingency table
+Pop3            119      B108       No contingency table
+Pop3            121      B108       No contingency table
+Pop3            124      B108       No contingency table
+Pop3            B103     B108       No contingency table
+Pop3            108      B128       No contingency table
+Pop3            G4       B128       No contingency table
+Pop3            103      B128       No contingency table
+Pop3            119      B128       No contingency table
+Pop3            121      B128       No contingency table
+Pop3            124      B128       No contingency table
+Pop3            B103     B128       No contingency table
+Pop3            B108     B128       No contingency table
+Pop4            108      G4         0.561760     0.010210    11490
+Pop4            108      103        0.630660     0.008787    14680
+Pop4            G4       103        0.679410     0.004791    23265
+Pop4            108      119        0.524890     0.017650     5004
+Pop4            G4       119        0.164430     0.007651    10938
+Pop4            103      119        1.000000     0.000000    13508
+Pop4            108      121        1.000000     0.000000     3979
+Pop4            G4       121        0.434450     0.011076     9735
+Pop4            103      121        1.000000     0.000000    11968
+Pop4            119      121        1.000000     0.000000     2810
+Pop4            108      124        0.266360     0.011347     6943
+Pop4            G4       124        0.855620     0.005580    13337
+Pop4            103      124        0.950220     0.002782    17129
+Pop4            119      124        1.000000     0.000000     5858
+Pop4            121      124        1.000000     0.000000     4879
+Pop4            108      B103       1.000000     0.000000     7732
+Pop4            G4       B103       0.776410     0.007077    13620
+Pop4            103      B103       0.764990     0.006702    13398
+Pop4            119      B103       1.000000     0.000000     5373
+Pop4            121      B103       No information
+Pop4            124      B103       0.510370     0.010543     9524
+Pop4            108      B108       No data      
+Pop4            G4       B108       No data      
+Pop4            103      B108       No data      
+Pop4            119      B108       No data      
+Pop4            121      B108       No data      
+Pop4            124      B108       No data      
+Pop4            B103     B108       No data      
+Pop4            108      B128       No contingency table
+Pop4            G4       B128       No contingency table
+Pop4            103      B128       No contingency table
+Pop4            119      B128       No contingency table
+Pop4            121      B128       No contingency table
+Pop4            124      B128       No contingency table
+Pop4            B103     B128       No contingency table
+Pop4            B108     B128       No data      
+Pop5            108      G4         0.670700     0.006742    29919
+Pop5            108      103        0.684180     0.005700    12130
+Pop5            G4       103        1.000000     0.000000    24046
+Pop5            108      119        0.559320     0.022815     5605
+Pop5            G4       119        0.758920     0.008260    17368
+Pop5            103      119        0.653100     0.012801     6017
+Pop5            108      121        0.391340     0.014144    10897
+Pop5            G4       121        0.836890     0.005573    25543
+Pop5            103      121        0.662320     0.007774     9101
+Pop5            119      121        0.810660     0.017642     4610
+Pop5            108      124        0.221530     0.018188     5205
+Pop5            G4       124        0.872320     0.007100    15540
+Pop5            103      124        1.000000     0.000000     5532
+Pop5            119      124        0.972620     0.007581     2108
+Pop5            121      124        0.696190     0.021790     4255
+Pop5            108      B103       1.000000     0.000000     3565
+Pop5            G4       B103       0.927510     0.005858    12288
+Pop5            103      B103       0.662940     0.011046     4947
+Pop5            119      B103       1.000000     0.000000     1186
+Pop5            121      B103       0.124960     0.019280     2628
+Pop5            124      B103       0.417130     0.041036     1137
+Pop5            108      B108       No data      
+Pop5            G4       B108       No data      
+Pop5            103      B108       No data      
+Pop5            119      B108       No data      
+Pop5            121      B108       No data      
+Pop5            124      B108       No data      
+Pop5            B103     B108       No data      
+Pop5            108      B128       No information
+Pop5            G4       B128       1.000000     0.000000    29987
+Pop5            103      B128       No contingency table
+Pop5            119      B128       1.000000     0.000000     9244
+Pop5            121      B128       0.269970     0.007739    14310
+Pop5            124      B128       1.000000     0.000000     6241
+Pop5            B103     B128       No information
+Pop5            B108     B128       No data      
+Pop6            108      G4         0.216080     0.010261    19706
+Pop6            108      103        0.489670     0.025892     2930
+Pop6            G4       103        0.811860     0.009041    15412
+Pop6            108      119        0.806050     0.018658     4411
+Pop6            G4       119        0.274870     0.009652    22901
+Pop6            103      119        0.482350     0.039424     1578
+Pop6            108      121        0.519550     0.024307     4280
+Pop6            G4       121        0.396840     0.011796    15958
+Pop6            103      121        0.666290     0.029456     2346
+Pop6            119      121        0.626810     0.027768     2503
+Pop6            108      124        0.022670     0.006881     2806
+Pop6            G4       124        0.669580     0.009067    21535
+Pop6            103      124        0.857130     0.017234     2595
+Pop6            119      124        0.052350     0.013118     3430
+Pop6            121      124        0.019190     0.005278     4135
+Pop6            108      B103       0.692290     0.019483     3624
+Pop6            G4       B103       0.855000     0.006415    13378
+Pop6            103      B103       No data      
+Pop6            119      B103       0.534420     0.019101     4825
+Pop6            121      B103       No data      
+Pop6            124      B103       1.000000     0.000000     3572
+Pop6            108      B108       0.229170     0.026362     2818
+Pop6            G4       B108       0.765320     0.009482    13008
+Pop6            103      B108       No data      
+Pop6            119      B108       0.855150     0.010659     6161
+Pop6            121      B108       No data      
+Pop6            124      B108       0.960830     0.005186     4792
+Pop6            B103     B108       0.349000     0.028563     2438
+Pop6            108      B128       No information
+Pop6            G4       B128       No information
+Pop6            103      B128       No data      
+Pop6            119      B128       No information
+Pop6            121      B128       No data      
+Pop6            124      B128       No information
+Pop6            B103     B128       No information
+Pop6            B108     B128       No information
+Pop7            108      G4         0.037530     0.002478    35488
+Pop7            108      103        1.000000     0.000000    24416
+Pop7            G4       103        1.000000     0.000000    30464
+Pop7            108      119        0.000120     0.000074    16611
+Pop7            G4       119        0.002850     0.000641    28807
+Pop7            103      119        1.000000     0.000000    21020
+Pop7            108      121        0.001330     0.000481    16507
+Pop7            G4       121        0.697640     0.005963    28464
+Pop7            103      121        0.088410     0.001830    12055
+Pop7            119      121        0.036260     0.004026    12966
+Pop7            108      124        0.000040     0.000032    18778
+Pop7            G4       124        0.000000     0.000000    32561
+Pop7            103      124        1.000000     0.000000    15148
+Pop7            119      124        0.000000     0.000000    15097
+Pop7            121      124        0.271600     0.009824    14819
+Pop7            108      B103       0.000300     0.000192    18812
+Pop7            G4       B103       0.774280     0.004690    31913
+Pop7            103      B103       0.093330     0.002164    15188
+Pop7            119      B103       0.006250     0.001143    20077
+Pop7            121      B103       0.010920     0.001740    14712
+Pop7            124      B103       0.191900     0.006856    23431
+Pop7            108      B108       0.047500     0.005773    13239
+Pop7            G4       B108       0.003300     0.000796    24777
+Pop7            103      B108       1.000000     0.000000    13708
+Pop7            119      B108       0.018920     0.003616    11001
+Pop7            121      B108       0.570760     0.013122    10634
+Pop7            124      B108       0.001540     0.000594    12042
+Pop7            B103     B108       0.939020     0.004573     9252
+Pop7            108      B128       0.009010     0.002463     7848
+Pop7            G4       B128       0.004930     0.001600    18313
+Pop7            103      B128       No contingency table
+Pop7            119      B128       0.000000     0.000000     7248
+Pop7            121      B128       0.102780     0.009122     7226
+Pop7            124      B128       0.020090     0.004543     7097
+Pop7            B103     B128       0.002130     0.001346    10615
+Pop7            B108     B128       0.011070     0.003629     5761
+Pop8            108      G4         No contingency table
+Pop8            108      103        No contingency table
+Pop8            G4       103        No contingency table
+Pop8            108      119        No contingency table
+Pop8            G4       119        No contingency table
+Pop8            103      119        No contingency table
+Pop8            108      121        No contingency table
+Pop8            G4       121        No contingency table
+Pop8            103      121        No contingency table
+Pop8            119      121        No contingency table
+Pop8            108      124        No contingency table
+Pop8            G4       124        No contingency table
+Pop8            103      124        No contingency table
+Pop8            119      124        No contingency table
+Pop8            121      124        No contingency table
+Pop8            108      B103       No contingency table
+Pop8            G4       B103       No contingency table
+Pop8            103      B103       No contingency table
+Pop8            119      B103       No contingency table
+Pop8            121      B103       No contingency table
+Pop8            124      B103       No contingency table
+Pop8            108      B108       No contingency table
+Pop8            G4       B108       No contingency table
+Pop8            103      B108       No contingency table
+Pop8            119      B108       No contingency table
+Pop8            121      B108       No contingency table
+Pop8            124      B108       No contingency table
+Pop8            B103     B108       No contingency table
+Pop8            108      B128       No contingency table
+Pop8            G4       B128       No contingency table
+Pop8            103      B128       No contingency table
+Pop8            119      B128       No contingency table
+Pop8            121      B128       No contingency table
+Pop8            124      B128       No contingency table
+Pop8            B103     B128       No contingency table
+Pop8            B108     B128       No contingency table
+Pop9            108      G4         No contingency table
+Pop9            108      103        0.619120     0.010707     7960
+Pop9            G4       103        No contingency table
+Pop9            108      119        1.000000     0.000000     3174
+Pop9            G4       119        No contingency table
+Pop9            103      119        1.000000     0.000000     7920
+Pop9            108      121        0.836790     0.008731     7886
+Pop9            G4       121        No contingency table
+Pop9            103      121        1.000000     0.000000     8274
+Pop9            119      121        0.202710     0.013320     5968
+Pop9            108      124        1.000000     0.000000     4778
+Pop9            G4       124        No contingency table
+Pop9            103      124        0.633440     0.010282    10940
+Pop9            119      124        0.193990     0.019116     3094
+Pop9            121      124        1.000000     0.000000     5661
+Pop9            108      B103       0.110480     0.018766     2406
+Pop9            G4       B103       No contingency table
+Pop9            103      B103       No information
+Pop9            119      B103       1.000000     0.000000     1801
+Pop9            121      B103       1.000000     0.000000     4670
+Pop9            124      B103       1.000000     0.000000     2651
+Pop9            108      B108       0.159390     0.015443     4831
+Pop9            G4       B108       No contingency table
+Pop9            103      B108       0.109150     0.005551    11233
+Pop9            119      B108       1.000000     0.000000     5704
+Pop9            121      B108       0.860550     0.006478     7652
+Pop9            124      B108       1.000000     0.000000     6755
+Pop9            B103     B108       1.000000     0.000000     4652
+Pop9            108      B128       1.000000     0.000000     4055
+Pop9            G4       B128       No contingency table
+Pop9            103      B128       0.461240     0.006210    17687
+Pop9            119      B128       0.129940     0.011087     5092
+Pop9            121      B128       0.133810     0.008230     9105
+Pop9            124      B128       1.000000     0.000000     5769
+Pop9            B103     B128       1.000000     0.000000     5325
+Pop9            B108     B128       0.065420     0.005854     7431
+Pop10           108      G4         0.597350     0.004662    19988
+Pop10           108      103        No information
+Pop10           G4       103        No information
+Pop10           108      119        1.000000     0.000000    29888
+Pop10           G4       119        1.000000     0.000000    39847
+Pop10           103      119        No information
+Pop10           108      121        0.095180     0.006025    10442
+Pop10           G4       121        0.590410     0.005294    19792
+Pop10           103      121        No information
+Pop10           119      121        1.000000     0.000000    29826
+Pop10           108      124        0.305060     0.006627    14275
+Pop10           G4       124        0.400240     0.003159    19988
+Pop10           103      124        No information
+Pop10           119      124        1.000000     0.000000    36626
+Pop10           121      124        0.305740     0.006448    14088
+Pop10           108      B103       0.160260     0.004553    19451
+Pop10           G4       B103       No contingency table
+Pop10           103      B103       No information
+Pop10           119      B103       1.000000     0.000000    33403
+Pop10           121      B103       0.166660     0.004067    19485
+Pop10           124      B103       0.500970     0.003512    24948
+Pop10           108      B108       0.296160     0.006709    14066
+Pop10           G4       B108       0.395550     0.004256    19829
+Pop10           103      B108       No information
+Pop10           119      B108       1.000000     0.000000    36528
+Pop10           121      B108       0.305110     0.007090    14249
+Pop10           124      B108       0.104220     0.003452    16121
+Pop10           B103     B108       0.502700     0.003488    25003
+Pop10           108      B128       No data      
+Pop10           G4       B128       No data      
+Pop10           103      B128       No data      
+Pop10           119      B128       No data      
+Pop10           121      B128       No data      
+Pop10           124      B128       No data      
+Pop10           B103     B128       No data      
+Pop10           B108     B128       No data      
+Pop11           108      G4         No contingency table
+Pop11           108      103        0.190270     0.008446    13668
+Pop11           G4       103        No contingency table
+Pop11           108      119        0.503060     0.020496     4036
+Pop11           G4       119        No contingency table
+Pop11           103      119        0.533510     0.010780    14055
+Pop11           108      121        0.807400     0.012512     6703
+Pop11           G4       121        No contingency table
+Pop11           103      121        0.278340     0.007911    15753
+Pop11           119      121        0.382200     0.014542     6387
+Pop11           108      124        0.546470     0.023326     4005
+Pop11           G4       124        No contingency table
+Pop11           103      124        0.201540     0.008618    13138
+Pop11           119      124        0.129640     0.017110     3969
+Pop11           121      124        0.011150     0.003017     6017
+Pop11           108      B103       0.025150     0.007991     2321
+Pop11           G4       B103       No contingency table
+Pop11           103      B103       0.063400     0.005030    11190
+Pop11           119      B103       0.101620     0.018426     2316
+Pop11           121      B103       0.013220     0.007893     4032
+Pop11           124      B103       0.003650     0.003650     2461
+Pop11           108      B108       0.347300     0.025870     2837
+Pop11           G4       B108       No contingency table
+Pop11           103      B108       0.127500     0.006968    12091
+Pop11           119      B108       0.007390     0.003112     2851
+Pop11           121      B108       0.604560     0.015706     5836
+Pop11           124      B108       0.000000     0.000000     2860
+Pop11           B103     B108       0.005820     0.003957     1523
+Pop11           108      B128       0.451320     0.016802     7087
+Pop11           G4       B128       No contingency table
+Pop11           103      B128       0.026880     0.002648    18572
+Pop11           119      B128       0.723350     0.013790     7643
+Pop11           121      B128       1.000000     0.000000    13169
+Pop11           124      B128       0.426140     0.017398     7171
+Pop11           B103     B128       0.695700     0.021400     4504
+Pop11           B108     B128       0.115030     0.016880     4849
+Pop12           108      G4         0.633960     0.002880    26374
+Pop12           108      103        0.784450     0.009316     9511
+Pop12           G4       103        0.591960     0.006636    10431
+Pop12           108      119        0.468430     0.009486    10896
+Pop12           G4       119        0.738200     0.004752    19707
+Pop12           103      119        1.000000     0.000000     4523
+Pop12           108      121        0.673580     0.007726    14081
+Pop12           G4       121        0.026110     0.001577    24086
+Pop12           103      121        0.287490     0.016967     5738
+Pop12           119      121        1.000000     0.000000     5177
+Pop12           108      124        0.730020     0.003542    29960
+Pop12           G4       124        0.014840     0.001041    32868
+Pop12           103      124        1.000000     0.000000    13671
+Pop12           119      124        0.680770     0.007529    15582
+Pop12           121      124        0.300180     0.010051    11536
+Pop12           108      B103       0.016900     0.001029    33016
+Pop12           G4       B103       1.000000     0.000000    49790
+Pop12           103      B103       0.914850     0.003191    18112
+Pop12           119      B103       0.743610     0.004647    19687
+Pop12           121      B103       0.736430     0.004669    29012
+Pop12           124      B103       0.450650     0.004547    37525
+Pop12           108      B108       0.262110     0.005951    20173
+Pop12           G4       B108       0.095120     0.002016    16502
+Pop12           103      B108       1.000000     0.000000     8032
+Pop12           119      B108       0.589980     0.012260     9692
+Pop12           121      B108       0.466390     0.008502    13951
+Pop12           124      B108       0.038610     0.002404    25074
+Pop12           B103     B108       1.000000     0.000000    33684
+Pop12           108      B128       0.570060     0.005321    14332
+Pop12           G4       B128       0.580640     0.005706    14432
+Pop12           103      B128       0.284910     0.011381     7020
+Pop12           119      B128       0.291080     0.013659     7064
+Pop12           121      B128       0.420220     0.010289    10354
+Pop12           124      B128       0.761340     0.007405    13454
+Pop12           B103     B128       0.566030     0.006081    14409
+Pop12           B108     B128       0.781230     0.005739    13451
+Pop13           108      G4         No contingency table
+Pop13           108      103        0.000430     0.000224    38935
+Pop13           G4       103        No contingency table
+Pop13           108      119        0.317000     0.004783    40893
+Pop13           G4       119        No contingency table
+Pop13           103      119        0.192570     0.008099    12117
+Pop13           108      121        0.000140     0.000114    34893
+Pop13           G4       121        No contingency table
+Pop13           103      121        0.000400     0.000400     9410
+Pop13           119      121        0.138540     0.008810     9450
+Pop13           108      124        0.001240     0.000313    38355
+Pop13           G4       124        No contingency table
+Pop13           103      124        0.000020     0.000020    14069
+Pop13           119      124        0.049310     0.003974    12053
+Pop13           121      124        0.000000     0.000000     7690
+Pop13           108      B103       0.644860     0.003454    38734
+Pop13           G4       B103       No contingency table
+Pop13           103      B103       0.448940     0.010136    12768
+Pop13           119      B103       0.241090     0.006073    18017
+Pop13           121      B103       0.300130     0.009551    12176
+Pop13           124      B103       0.557690     0.008646    14422
+Pop13           108      B108       No contingency table
+Pop13           G4       B108       No contingency table
+Pop13           103      B108       No contingency table
+Pop13           119      B108       No contingency table
+Pop13           121      B108       No contingency table
+Pop13           124      B108       No contingency table
+Pop13           B103     B108       No contingency table
+Pop13           108      B128       0.799360     0.002141    47353
+Pop13           G4       B128       No contingency table
+Pop13           103      B128       0.695850     0.006341    18066
+Pop13           119      B128       0.228820     0.006133    19886
+Pop13           121      B128       0.170900     0.006860    14993
+Pop13           124      B128       0.328260     0.006899    17801
+Pop13           B103     B128       0.000740     0.000389    17573
+Pop13           B108     B128       No contingency table
+Pop14           108      G4         No contingency table
+Pop14           108      103        No contingency table
+Pop14           G4       103        No contingency table
+Pop14           108      119        No contingency table
+Pop14           G4       119        No contingency table
+Pop14           103      119        No contingency table
+Pop14           108      121        No contingency table
+Pop14           G4       121        No contingency table
+Pop14           103      121        No contingency table
+Pop14           119      121        No contingency table
+Pop14           108      124        No contingency table
+Pop14           G4       124        No contingency table
+Pop14           103      124        No contingency table
+Pop14           119      124        No contingency table
+Pop14           121      124        No contingency table
+Pop14           108      B103       No contingency table
+Pop14           G4       B103       No contingency table
+Pop14           103      B103       No contingency table
+Pop14           119      B103       No contingency table
+Pop14           121      B103       No contingency table
+Pop14           124      B103       No contingency table
+Pop14           108      B108       No contingency table
+Pop14           G4       B108       No contingency table
+Pop14           103      B108       No contingency table
+Pop14           119      B108       No contingency table
+Pop14           121      B108       No contingency table
+Pop14           124      B108       No contingency table
+Pop14           B103     B108       No contingency table
+Pop14           108      B128       No contingency table
+Pop14           G4       B128       No contingency table
+Pop14           103      B128       No contingency table
+Pop14           119      B128       No contingency table
+Pop14           121      B128       No contingency table
+Pop14           124      B128       No contingency table
+Pop14           B103     B128       No contingency table
+Pop14           B108     B128       No contingency table
+Pop15           108      G4         0.873620     0.002586    29391
+Pop15           108      103        1.000000     0.000000     4195
+Pop15           G4       103        1.000000     0.000000    25556
+Pop15           108      119        0.570690     0.012374    10006
+Pop15           G4       119        0.189230     0.003578    32872
+Pop15           103      119        1.000000     0.000000     4752
+Pop15           108      121        0.738010     0.016991     4653
+Pop15           G4       121        0.697810     0.005563    24331
+Pop15           103      121        1.000000     0.000000     2017
+Pop15           119      121        0.123380     0.012957     5519
+Pop15           108      124        0.740920     0.003533    29139
+Pop15           G4       124        0.198570     0.003110    31463
+Pop15           103      124        1.000000     0.000000     9223
+Pop15           119      124        0.065860     0.002836    17705
+Pop15           121      124        0.407740     0.009367    11356
+Pop15           108      B103       0.101150     0.005406    10815
+Pop15           G4       B103       0.666780     0.002355    34342
+Pop15           103      B103       0.522870     0.013101     8200
+Pop15           119      B103       0.529500     0.007482    13515
+Pop15           121      B103       0.762450     0.011398     7618
+Pop15           124      B103       1.000000     0.000000    19553
+Pop15           108      B108       0.979360     0.003380     4738
+Pop15           G4       B108       1.000000     0.000000    28237
+Pop15           103      B108       1.000000     0.000000     2514
+Pop15           119      B108       0.334770     0.012264     8937
+Pop15           121      B108       0.589240     0.025176     3003
+Pop15           124      B108       No information
+Pop15           B103     B108       0.692830     0.011503     8899
+Pop15           108      B128       1.000000     0.000000    11665
+Pop15           G4       B128       0.127310     0.002555    34136
+Pop15           103      B128       No information
+Pop15           119      B128       0.593420     0.010009    11896
+Pop15           121      B128       0.180040     0.009446     7968
+Pop15           124      B128       1.000000     0.000000    33235
+Pop15           B103     B128       0.433960     0.003501    29261
+Pop15           B108     B128       0.204840     0.009571    10871
+Pop16           108      G4         No contingency table
+Pop16           108      103        No contingency table
+Pop16           G4       103        No contingency table
+Pop16           108      119        No contingency table
+Pop16           G4       119        No contingency table
+Pop16           103      119        No contingency table
+Pop16           108      121        No contingency table
+Pop16           G4       121        No contingency table
+Pop16           103      121        1.000000     0.000000    24986
+Pop16           119      121        No contingency table
+Pop16           108      124        No contingency table
+Pop16           G4       124        No contingency table
+Pop16           103      124        No contingency table
+Pop16           119      124        No data      
+Pop16           121      124        No contingency table
+Pop16           108      B103       No contingency table
+Pop16           G4       B103       No contingency table
+Pop16           103      B103       No contingency table
+Pop16           119      B103       No contingency table
+Pop16           121      B103       No contingency table
+Pop16           124      B103       No data      
+Pop16           108      B108       No contingency table
+Pop16           G4       B108       No contingency table
+Pop16           103      B108       No information
+Pop16           119      B108       No contingency table
+Pop16           121      B108       No information
+Pop16           124      B108       No contingency table
+Pop16           B103     B108       No contingency table
+Pop16           108      B128       No contingency table
+Pop16           G4       B128       No contingency table
+Pop16           103      B128       No contingency table
+Pop16           119      B128       No contingency table
+Pop16           121      B128       No contingency table
+Pop16           124      B128       No contingency table
+Pop16           B103     B128       No contingency table
+Pop16           B108     B128       No contingency table
+Pop17           108      G4         1.000000     0.000000    32799
+Pop17           108      103        0.117360     0.004852    10996
+Pop17           G4       103        0.379850     0.007282    28275
+Pop17           108      119        0.416620     0.019014     4418
+Pop17           G4       119        0.904980     0.004492    25591
+Pop17           103      119        0.011320     0.005771     2784
+Pop17           108      121        0.496040     0.005045    17766
+Pop17           G4       121        0.208850     0.004153    35831
+Pop17           103      121        0.240200     0.014441     6153
+Pop17           119      121        0.072480     0.007133     7878
+Pop17           108      124        0.641700     0.011188     6682
+Pop17           G4       124        0.508150     0.006607    31818
+Pop17           103      124        0.009430     0.004805     5413
+Pop17           119      124        0.061240     0.010754     4456
+Pop17           121      124        0.023850     0.002676    13179
+Pop17           108      B103       0.240180     0.014517     3861
+Pop17           G4       B103       0.100730     0.004804    22895
+Pop17           103      B103       0.005590     0.004719     2076
+Pop17           119      B103       0.068640     0.021153     1473
+Pop17           121      B103       0.038780     0.006242     5321
+Pop17           124      B103       0.000400     0.000400     2691
+Pop17           108      B108       0.406020     0.016102     4338
+Pop17           G4       B108       0.558170     0.009418    26436
+Pop17           103      B108       0.005710     0.004285     2416
+Pop17           119      B108       0.339300     0.035407     1973
+Pop17           121      B108       0.749050     0.012096     6928
+Pop17           124      B108       0.000000     0.000000     3517
+Pop17           B103     B108       0.000000     0.000000      892
+Pop17           108      B128       No contingency table
+Pop17           G4       B128       0.616060     0.005565    22129
+Pop17           103      B128       0.032040     0.007409     5661
+Pop17           119      B128       0.111310     0.010892     6822
+Pop17           121      B128       0.750090     0.008770    10112
+Pop17           124      B128       0.003440     0.001545     7098
+Pop17           B103     B128       0.000640     0.000640     3618
+Pop17           B108     B128       0.004470     0.002082     3901
+Pop18           108      G4         No contingency table
+Pop18           108      103        No contingency table
+Pop18           G4       103        1.000000     0.000000    25037
+Pop18           108      119        No contingency table
+Pop18           G4       119        0.501550     0.003638    25102
+Pop18           103      119        0.599030     0.004392    20018
+Pop18           108      121        No contingency table
+Pop18           G4       121        0.499250     0.003873    24853
+Pop18           103      121        0.598580     0.005009    20172
+Pop18           119      121        0.066170     0.002428    22860
+Pop18           108      124        No contingency table
+Pop18           G4       124        0.502580     0.003581    25224
+Pop18           103      124        0.603090     0.004605    19990
+Pop18           119      124        0.061360     0.002356    23171
+Pop18           121      124        0.070040     0.002463    22988
+Pop18           108      B103       No contingency table
+Pop18           G4       B103       No information
+Pop18           103      B103       0.300560     0.007690    14238
+Pop18           119      B103       0.195970     0.004710    16761
+Pop18           121      B103       0.198630     0.005449    16631
+Pop18           124      B103       0.194140     0.005255    16492
+Pop18           108      B108       No contingency table
+Pop18           G4       B108       1.000000     0.000000    50082
+Pop18           103      B108       1.000000     0.000000    36742
+Pop18           119      B108       0.201270     0.002326    33187
+Pop18           121      B108       0.199860     0.002523    33360
+Pop18           124      B108       0.197950     0.002408    33471
+Pop18           B103     B108       0.398600     0.003594    30159
+Pop18           108      B128       No data      
+Pop18           G4       B128       No data      
+Pop18           103      B128       No data      
+Pop18           119      B128       No data      
+Pop18           121      B128       No data      
+Pop18           124      B128       No data      
+Pop18           B103     B128       No data      
+Pop18           B108     B128       No data      
+Pop19           108      G4         No information
+Pop19           108      103        No information
+Pop19           G4       103        No information
+Pop19           108      119        No information
+Pop19           G4       119        No information
+Pop19           103      119        No information
+Pop19           108      121        No information
+Pop19           G4       121        No information
+Pop19           103      121        No information
+Pop19           119      121        No information
+Pop19           108      124        No information
+Pop19           G4       124        No information
+Pop19           103      124        No information
+Pop19           119      124        No information
+Pop19           121      124        No information
+Pop19           108      B103       No information
+Pop19           G4       B103       No information
+Pop19           103      B103       No information
+Pop19           119      B103       No information
+Pop19           121      B103       No information
+Pop19           124      B103       No information
+Pop19           108      B108       No information
+Pop19           G4       B108       No information
+Pop19           103      B108       No information
+Pop19           119      B108       No information
+Pop19           121      B108       No information
+Pop19           124      B108       No information
+Pop19           B103     B108       No information
+Pop19           108      B128       No information
+Pop19           G4       B128       No information
+Pop19           103      B128       No information
+Pop19           119      B128       No information
+Pop19           121      B128       No information
+Pop19           124      B128       No information
+Pop19           B103     B128       No information
+Pop19           B108     B128       No information
+Pop20           108      G4         1.000000     0.000000    50103
+Pop20           108      103        No contingency table
+Pop20           G4       103        No contingency table
+Pop20           108      119        0.397860     0.002047    39934
+Pop20           G4       119        0.249500     0.001767    24938
+Pop20           103      119        No contingency table
+Pop20           108      121        0.101110     0.001761    40199
+Pop20           G4       121        1.000000     0.000000    49798
+Pop20           103      121        No contingency table
+Pop20           119      121        0.400980     0.002052    40163
+Pop20           108      124        0.394650     0.001625    40055
+Pop20           G4       124        0.248710     0.002169    24891
+Pop20           103      124        No contingency table
+Pop20           119      124        0.202260     0.002086    20034
+Pop20           121      124        0.397300     0.001982    40087
+Pop20           108      B103       1.000000     0.000000    49836
+Pop20           G4       B103       0.333850     0.001972    33256
+Pop20           103      B103       No contingency table
+Pop20           119      B103       0.252800     0.002023    25118
+Pop20           121      B103       1.000000     0.000000    49965
+Pop20           124      B103       0.250600     0.001920    24963
+Pop20           108      B108       1.000000     0.000000    36254
+Pop20           G4       B108       0.501130     0.003331    25004
+Pop20           103      B108       No contingency table
+Pop20           119      B108       0.400230     0.003459    20037
+Pop20           121      B108       1.000000     0.000000    36723
+Pop20           124      B108       0.391760     0.003692    19743
+Pop20           B103     B108       0.247320     0.002002    25260
+Pop20           108      B128       1.000000     0.000000    49790
+Pop20           G4       B128       0.333150     0.001926    33352
+Pop20           103      B128       No contingency table
+Pop20           119      B128       0.248800     0.001915    24976
+Pop20           121      B128       1.000000     0.000000    50004
+Pop20           124      B128       0.251110     0.001954    24911
+Pop20           B103     B128       0.249690     0.001896    24692
+Pop20           B108     B128       0.249630     0.001775    24779
+Pop21           108      G4         0.553820     0.005045    17237
+Pop21           108      103        1.000000     0.000000    21960
+Pop21           G4       103        0.224190     0.003566    11062
+Pop21           108      119        0.694010     0.005017    23090
+Pop21           G4       119        1.000000     0.000000    16344
+Pop21           103      119        1.000000     0.000000    22083
+Pop21           108      121        0.716430     0.004717    24026
+Pop21           G4       121        0.084540     0.002978    15985
+Pop21           103      121        0.111880     0.001947    18480
+Pop21           119      121        1.000000     0.000000    22523
+Pop21           108      124        0.885420     0.004991    14481
+Pop21           G4       124        0.407840     0.012403     8498
+Pop21           103      124        0.663190     0.007203    11772
+Pop21           119      124        0.100510     0.005818    10933
+Pop21           121      124        0.141510     0.006796    13360
+Pop21           108      B103       0.332050     0.010512    12008
+Pop21           G4       B103       0.562180     0.013305     7383
+Pop21           103      B103       0.782320     0.006341    11226
+Pop21           119      B103       1.000000     0.000000     8074
+Pop21           121      B103       1.000000     0.000000    11278
+Pop21           124      B103       1.000000     0.000000     3544
+Pop21           108      B108       No data      
+Pop21           G4       B108       No data      
+Pop21           103      B108       No data      
+Pop21           119      B108       No data      
+Pop21           121      B108       No data      
+Pop21           124      B108       No data      
+Pop21           B103     B108       No data      
+Pop21           108      B128       0.430720     0.004880    28284
+Pop21           G4       B128       0.479340     0.010313     9633
+Pop21           103      B128       0.715490     0.005433    14552
+Pop21           119      B128       1.000000     0.000000     8796
+Pop21           121      B128       1.000000     0.000000    13525
+Pop21           124      B128       1.000000     0.000000     4032
+Pop21           B103     B128       No information
+Pop21           B108     B128       No data      
+Pop22           108      G4         0.206220     0.004384    33167
+Pop22           108      103        0.747970     0.006054    15651
+Pop22           G4       103        0.471400     0.001718    47064
+Pop22           108      119        1.000000     0.000000    11356
+Pop22           G4       119        0.703600     0.002992    42556
+Pop22           103      119        0.245810     0.003917    25483
+Pop22           108      121        0.235920     0.013406     6886
+Pop22           G4       121        0.359250     0.004566    35222
+Pop22           103      121        0.612570     0.004893    18923
+Pop22           119      121        0.782800     0.007734    14128
+Pop22           108      124        0.013040     0.003638     6262
+Pop22           G4       124        0.166060     0.003927    33645
+Pop22           103      124        0.671740     0.005801    17177
+Pop22           119      124        0.542820     0.009144    12638
+Pop22           121      124        0.007680     0.002758     7344
+Pop22           108      B103       0.157000     0.012333     6846
+Pop22           G4       B103       0.259120     0.004442    31556
+Pop22           103      B103       0.707060     0.005112    19331
+Pop22           119      B103       1.000000     0.000000    19067
+Pop22           121      B103       0.482840     0.014659     7922
+Pop22           124      B103       0.047060     0.005924     9727
+Pop22           108      B108       No data      
+Pop22           G4       B108       No data      
+Pop22           103      B108       No data      
+Pop22           119      B108       No data      
+Pop22           121      B108       No data      
+Pop22           124      B108       No data      
+Pop22           B103     B108       No data      
+Pop22           108      B128       0.627860     0.011800     7928
+Pop22           G4       B128       0.713700     0.004535    26229
+Pop22           103      B128       No contingency table
+Pop22           119      B128       1.000000     0.000000    15115
+Pop22           121      B128       0.128300     0.007959    10932
+Pop22           124      B128       0.817500     0.007681    10303
+Pop22           B103     B128       0.233370     0.015289     6018
+Pop22           B108     B128       No data      
+Pop23           108      G4         0.110840     0.005809    12542
+Pop23           108      103        No contingency table
+Pop23           G4       103        No contingency table
+Pop23           108      119        No information
+Pop23           G4       119        No information
+Pop23           103      119        No contingency table
+Pop23           108      121        1.000000     0.000000     3484
+Pop23           G4       121        0.614840     0.009771    12415
+Pop23           103      121        No contingency table
+Pop23           119      121        No information
+Pop23           108      124        1.000000     0.000000     3224
+Pop23           G4       124        0.824220     0.006966    12172
+Pop23           103      124        No contingency table
+Pop23           119      124        No information
+Pop23           121      124        0.155180     0.014614     3316
+Pop23           108      B103       1.000000     0.000000     2746
+Pop23           G4       B103       1.000000     0.000000    10930
+Pop23           103      B103       No contingency table
+Pop23           119      B103       No information
+Pop23           121      B103       1.000000     0.000000     3806
+Pop23           124      B103       1.000000     0.000000     3620
+Pop23           108      B108       0.686500     0.015149     5435
+Pop23           G4       B108       0.150280     0.005171    15111
+Pop23           103      B108       No contingency table
+Pop23           119      B108       No information
+Pop23           121      B108       1.000000     0.000000     5595
+Pop23           124      B108       1.000000     0.000000     5354
+Pop23           B103     B108       1.000000     0.000000     4621
+Pop23           108      B128       1.000000     0.000000     3755
+Pop23           G4       B128       0.911700     0.004506    13632
+Pop23           103      B128       No contingency table
+Pop23           119      B128       No information
+Pop23           121      B128       1.000000     0.000000     4363
+Pop23           124      B128       1.000000     0.000000     4147
+Pop23           B103     B128       0.139170     0.017217     3521
+Pop23           B108     B128       0.158650     0.011862     5596
+Pop24           108      G4         No information
+Pop24           108      103        No information
+Pop24           G4       103        No information
+Pop24           108      119        No information
+Pop24           G4       119        1.000000     0.000000    33445
+Pop24           103      119        No information
+Pop24           108      121        No information
+Pop24           G4       121        No information
+Pop24           103      121        No information
+Pop24           119      121        No information
+Pop24           108      124        No information
+Pop24           G4       124        No information
+Pop24           103      124        No information
+Pop24           119      124        No information
+Pop24           121      124        No information
+Pop24           108      B103       No information
+Pop24           G4       B103       No information
+Pop24           103      B103       No information
+Pop24           119      B103       No information
+Pop24           121      B103       No information
+Pop24           124      B103       No information
+Pop24           108      B108       No information
+Pop24           G4       B108       No information
+Pop24           103      B108       No information
+Pop24           119      B108       No information
+Pop24           121      B108       No information
+Pop24           124      B108       No information
+Pop24           B103     B108       No information
+Pop24           108      B128       No information
+Pop24           G4       B128       No information
+Pop24           103      B128       No information
+Pop24           119      B128       No contingency table
+Pop24           121      B128       No information
+Pop24           124      B128       No information
+Pop24           B103     B128       No information
+Pop24           B108     B128       No contingency table
+Pop25           108      G4         0.181920     0.004187    10555
+Pop25           108      103        0.086050     0.002232    12651
+Pop25           G4       103        0.092800     0.001383     9246
+Pop25           108      119        0.185800     0.007113    10914
+Pop25           G4       119        0.099600     0.001950    13123
+Pop25           103      119        0.099670     0.001947    13195
+Pop25           108      121        0.145310     0.004876    16522
+Pop25           G4       121        0.540850     0.005455    18061
+Pop25           103      121        0.496420     0.005040    16752
+Pop25           119      121        0.369440     0.006843    16222
+Pop25           108      124        0.129450     0.005300    13235
+Pop25           G4       124        0.545620     0.004730    15197
+Pop25           103      124        0.542430     0.005008    15217
+Pop25           119      124        0.899290     0.003479    17581
+Pop25           121      124        0.949140     0.002659    18866
+Pop25           108      B103       0.107280     0.008275     8715
+Pop25           G4       B103       0.465370     0.006398     9682
+Pop25           103      B103       0.337960     0.005869     9688
+Pop25           119      B103       0.166760     0.008940    10860
+Pop25           121      B103       0.206620     0.009747    10115
+Pop25           124      B103       0.502660     0.012805     9218
+Pop25           108      B108       No data      
+Pop25           G4       B108       No data      
+Pop25           103      B108       No data      
+Pop25           119      B108       No data      
+Pop25           121      B108       No data      
+Pop25           124      B108       No data      
+Pop25           B103     B108       No data      
+Pop25           108      B128       0.244910     0.009941     9099
+Pop25           G4       B128       0.275810     0.004772    11083
+Pop25           103      B128       0.273730     0.005500    10901
+Pop25           119      B128       0.177910     0.004940    14680
+Pop25           121      B128       0.291000     0.008246    12969
+Pop25           124      B128       0.552050     0.009520    12130
+Pop25           B103     B128       0.411520     0.015903     5995
+Pop25           B108     B128       No data      
+Pop26           108      G4         0.685790     0.004032    34105
+Pop26           108      103        0.069150     0.010904     4060
+Pop26           G4       103        0.832480     0.008481    10811
+Pop26           108      119        0.646280     0.011781     6975
+Pop26           G4       119        0.019970     0.002293    13392
+Pop26           103      119        1.000000     0.000000     2609
+Pop26           108      121        0.995380     0.001840     5513
+Pop26           G4       121        0.937870     0.004093    15778
+Pop26           103      121        0.205810     0.020914     2917
+Pop26           119      121        0.012070     0.002917     5516
+Pop26           108      124        0.814100     0.007507    11977
+Pop26           G4       124        0.080630     0.003535    21607
+Pop26           103      124        1.000000     0.000000     8338
+Pop26           119      124        0.902330     0.005733     9980
+Pop26           121      124        0.502380     0.009631    12760
+Pop26           108      B103       0.002240     0.001296     6015
+Pop26           G4       B103       0.658440     0.007159    15178
+Pop26           103      B103       0.220250     0.020217     3879
+Pop26           119      B103       0.578510     0.019344     5328
+Pop26           121      B103       0.898600     0.008739     6009
+Pop26           124      B103       0.795500     0.008495    12265
+Pop26           108      B108       0.428140     0.024392     3440
+Pop26           G4       B108       0.163430     0.011252    10317
+Pop26           103      B108       0.067530     0.015756     1467
+Pop26           119      B108       1.000000     0.000000     2534
+Pop26           121      B108       0.474710     0.026456     3352
+Pop26           124      B108       0.621710     0.016788     7207
+Pop26           B103     B108       0.401830     0.024833     3517
+Pop26           108      B128       No data      
+Pop26           G4       B128       No data      
+Pop26           103      B128       No data      
+Pop26           119      B128       No data      
+Pop26           121      B128       No data      
+Pop26           124      B128       No data      
+Pop26           B103     B128       No data      
+Pop26           B108     B128       No data      
+Pop27           108      G4         0.715920     0.005124    22688
+Pop27           108      103        0.873630     0.003069    19552
+Pop27           G4       103        0.349190     0.004718    28845
+Pop27           108      119        0.768300     0.009001     8440
+Pop27           G4       119        0.017340     0.001878    13711
+Pop27           103      119        0.308450     0.004525    30415
+Pop27           108      121        1.000000     0.000000     7045
+Pop27           G4       121        0.863620     0.007148    13445
+Pop27           103      121        0.928350     0.004777    12142
+Pop27           119      121        0.360540     0.024919     3435
+Pop27           108      124        0.630740     0.011093     8665
+Pop27           G4       124        1.000000     0.000000    12681
+Pop27           103      124        0.829910     0.004425    28676
+Pop27           119      124        1.000000     0.000000     3631
+Pop27           121      124        1.000000     0.000000     2813
+Pop27           108      B103       No information
+Pop27           G4       B103       No information
+Pop27           103      B103       No information
+Pop27           119      B103       No information
+Pop27           121      B103       No information
+Pop27           124      B103       No information
+Pop27           108      B108       1.000000     0.000000     7068
+Pop27           G4       B108       0.569340     0.010139    12734
+Pop27           103      B108       1.000000     0.000000    11516
+Pop27           119      B108       1.000000     0.000000     3041
+Pop27           121      B108       1.000000     0.000000     1760
+Pop27           124      B108       1.000000     0.000000     2376
+Pop27           B103     B108       No information
+Pop27           108      B128       0.489190     0.014292     7059
+Pop27           G4       B128       1.000000     0.000000    12591
+Pop27           103      B128       0.631760     0.010875    11268
+Pop27           119      B128       1.000000     0.000000     3010
+Pop27           121      B128       1.000000     0.000000     1826
+Pop27           124      B128       0.000110     0.000110     2406
+Pop27           B103     B128       No information
+Pop27           B108     B128       1.000000     0.000000     1542
+Pop28           108      G4         0.245120     0.002013    24738
+Pop28           108      103        0.253040     0.001949    25116
+Pop28           G4       103        0.248430     0.002122    24922
+Pop28           108      119        0.249340     0.001963    25038
+Pop28           G4       119        0.251390     0.001953    24964
+Pop28           103      119        0.251090     0.001807    25108
+Pop28           108      121        0.501480     0.003501    25144
+Pop28           G4       121        0.499120     0.003529    24996
+Pop28           103      121        0.504580     0.003486    24994
+Pop28           119      121        0.501580     0.003390    25110
+Pop28           108      124        0.249270     0.001780    24886
+Pop28           G4       124        0.250330     0.002437    24870
+Pop28           103      124        0.248680     0.001977    24786
+Pop28           119      124        0.248040     0.001740    25084
+Pop28           121      124        0.498760     0.003593    24971
+Pop28           108      B103       1.000000     0.000000    50321
+Pop28           G4       B103       1.000000     0.000000    49966
+Pop28           103      B103       1.000000     0.000000    50209
+Pop28           119      B103       1.000000     0.000000    49921
+Pop28           121      B103       1.000000     0.000000    33304
+Pop28           124      B103       1.000000     0.000000    50041
+Pop28           108      B108       No contingency table
+Pop28           G4       B108       No contingency table
+Pop28           103      B108       No contingency table
+Pop28           119      B108       No contingency table
+Pop28           121      B108       No contingency table
+Pop28           124      B108       No contingency table
+Pop28           B103     B108       No contingency table
+Pop28           108      B128       0.248390     0.001862    25190
+Pop28           G4       B128       0.251720     0.002100    25030
+Pop28           103      B128       0.249900     0.001950    25156
+Pop28           119      B128       0.250450     0.001847    25046
+Pop28           121      B128       0.502730     0.003354    24876
+Pop28           124      B128       0.251030     0.002001    25094
+Pop28           B103     B128       1.000000     0.000000    50183
+Pop28           B108     B128       No contingency table
+Pop29           108      G4         0.856110     0.003223    30595
+Pop29           108      103        0.424440     0.017424     7354
+Pop29           G4       103        0.585410     0.010204    18874
+Pop29           108      119        0.509170     0.009407    14299
+Pop29           G4       119        0.413250     0.009116    13670
+Pop29           103      119        0.397280     0.028919     2337
+Pop29           108      121        0.387330     0.010489    16036
+Pop29           G4       121        0.259930     0.005497    34191
+Pop29           103      121        0.042190     0.006141    10286
+Pop29           119      121        0.551110     0.015638     7013
+Pop29           108      124        0.331810     0.014510     8508
+Pop29           G4       124        0.327090     0.009958    16237
+Pop29           103      124        0.041330     0.011105     3233
+Pop29           119      124        0.323160     0.025731     2758
+Pop29           121      124        0.007680     0.002872     7915
+Pop29           108      B103       0.082840     0.006904    10900
+Pop29           G4       B103       0.002120     0.000607    14502
+Pop29           103      B103       0.019710     0.005754     3615
+Pop29           119      B103       0.054560     0.008173     4153
+Pop29           121      B103       0.008920     0.002175    10185
+Pop29           124      B103       0.144770     0.016645     3631
+Pop29           108      B108       0.107990     0.009612     8380
+Pop29           G4       B108       0.807120     0.006535    18191
+Pop29           103      B108       0.571500     0.022772     4541
+Pop29           119      B108       0.751310     0.017823     3655
+Pop29           121      B108       0.060610     0.005526    11193
+Pop29           124      B108       0.014860     0.007275     3814
+Pop29           B103     B108       0.036490     0.011205     4214
+Pop29           108      B128       No data      
+Pop29           G4       B128       No data      
+Pop29           103      B128       No data      
+Pop29           119      B128       No data      
+Pop29           121      B128       No data      
+Pop29           124      B128       No data      
+Pop29           B103     B128       No data      
+Pop29           B108     B128       No data      
+Pop30           108      G4         No contingency table
+Pop30           108      103        No contingency table
+Pop30           G4       103        No contingency table
+Pop30           108      119        No contingency table
+Pop30           G4       119        No contingency table
+Pop30           103      119        No contingency table
+Pop30           108      121        No contingency table
+Pop30           G4       121        No contingency table
+Pop30           103      121        No contingency table
+Pop30           119      121        No contingency table
+Pop30           108      124        No contingency table
+Pop30           G4       124        No contingency table
+Pop30           103      124        No contingency table
+Pop30           119      124        No contingency table
+Pop30           121      124        No contingency table
+Pop30           108      B103       No contingency table
+Pop30           G4       B103       No contingency table
+Pop30           103      B103       No contingency table
+Pop30           119      B103       No contingency table
+Pop30           121      B103       No contingency table
+Pop30           124      B103       No contingency table
+Pop30           108      B108       No contingency table
+Pop30           G4       B108       No contingency table
+Pop30           103      B108       No contingency table
+Pop30           119      B108       No contingency table
+Pop30           121      B108       No contingency table
+Pop30           124      B108       No contingency table
+Pop30           B103     B108       No contingency table
+Pop30           108      B128       No contingency table
+Pop30           G4       B128       No contingency table
+Pop30           103      B128       No contingency table
+Pop30           119      B128       No contingency table
+Pop30           121      B128       No contingency table
+Pop30           124      B128       No contingency table
+Pop30           B103     B128       No contingency table
+Pop30           B108     B128       No contingency table
+Pop31           108      G4         No contingency table
+Pop31           108      103        No contingency table
+Pop31           G4       103        No contingency table
+Pop31           108      119        1.000000     0.000000    10453
+Pop31           G4       119        No contingency table
+Pop31           103      119        No contingency table
+Pop31           108      121        0.099850     0.006315    10569
+Pop31           G4       121        No contingency table
+Pop31           103      121        No contingency table
+Pop31           119      121        1.000000     0.000000     8237
+Pop31           108      124        No information
+Pop31           G4       124        No contingency table
+Pop31           103      124        No contingency table
+Pop31           119      124        0.106130     0.010070     5729
+Pop31           121      124        No information
+Pop31           108      B103       0.101040     0.006199    10375
+Pop31           G4       B103       No contingency table
+Pop31           103      B103       No contingency table
+Pop31           119      B103       1.000000     0.000000     9093
+Pop31           121      B103       0.109050     0.005715    10471
+Pop31           124      B103       1.000000     0.000000     6200
+Pop31           108      B108       1.000000     0.000000    10334
+Pop31           G4       B108       No contingency table
+Pop31           103      B108       No contingency table
+Pop31           119      B108       0.009960     0.002548     7597
+Pop31           121      B108       1.000000     0.000000     8293
+Pop31           124      B108       0.087270     0.008307     5780
+Pop31           B103     B108       1.000000     0.000000     9170
+Pop31           108      B128       1.000000     0.000000    14252
+Pop31           G4       B128       No contingency table
+Pop31           103      B128       No contingency table
+Pop31           119      B128       0.032080     0.003563    10390
+Pop31           121      B128       1.000000     0.000000    10082
+Pop31           124      B128       0.191860     0.009005     8090
+Pop31           B103     B128       1.000000     0.000000    14167
+Pop31           B108     B128       0.026930     0.003063    10337
+Pop32           108      G4         No contingency table
+Pop32           108      103        No contingency table
+Pop32           G4       103        No contingency table
+Pop32           108      119        0.980250     0.003813     5373
+Pop32           G4       119        No contingency table
+Pop32           103      119        No contingency table
+Pop32           108      121        0.917670     0.010070     4881
+Pop32           G4       121        No contingency table
+Pop32           103      121        No contingency table
+Pop32           119      121        0.001860     0.001090     1739
+Pop32           108      124        0.398960     0.022445     6497
+Pop32           G4       124        No contingency table
+Pop32           103      124        No contingency table
+Pop32           119      124        0.863460     0.020453     2268
+Pop32           121      124        1.000000     0.000000     1621
+Pop32           108      B103       0.685670     0.025891     3285
+Pop32           G4       B103       No contingency table
+Pop32           103      B103       No contingency table
+Pop32           119      B103       0.416100     0.041291     1163
+Pop32           121      B103       0.000000     0.000000      794
+Pop32           124      B103       0.424580     0.042787     1031
+Pop32           108      B108       0.787820     0.013915     8074
+Pop32           G4       B108       No contingency table
+Pop32           103      B108       No contingency table
+Pop32           119      B108       0.743790     0.024565     2973
+Pop32           121      B108       0.873050     0.016427     2476
+Pop32           124      B108       0.302130     0.028700     2846
+Pop32           B103     B108       0.538770     0.036295     1413
+Pop32           108      B128       0.268460     0.015090     7982
+Pop32           G4       B128       No contingency table
+Pop32           103      B128       No contingency table
+Pop32           119      B128       0.404180     0.020728     3650
+Pop32           121      B128       1.000000     0.000000     2937
+Pop32           124      B128       0.372260     0.020050     3592
+Pop32           B103     B128       0.272690     0.025529     2888
+Pop32           B108     B128       0.110610     0.016289     4080
+Pop33           108      G4         No contingency table
+Pop33           108      103        No contingency table
+Pop33           G4       103        No contingency table
+Pop33           108      119        1.000000     0.000000    33290
+Pop33           G4       119        No contingency table
+Pop33           103      119        No contingency table
+Pop33           108      121        1.000000     0.000000    33332
+Pop33           G4       121        No contingency table
+Pop33           103      121        No contingency table
+Pop33           119      121        1.000000     0.000000    33337
+Pop33           108      124        No information
+Pop33           G4       124        No contingency table
+Pop33           103      124        No contingency table
+Pop33           119      124        No information
+Pop33           121      124        No information
+Pop33           108      B103       No information
+Pop33           G4       B103       No contingency table
+Pop33           103      B103       No contingency table
+Pop33           119      B103       No information
+Pop33           121      B103       No contingency table
+Pop33           124      B103       No information
+Pop33           108      B108       No contingency table
+Pop33           G4       B108       No contingency table
+Pop33           103      B108       No contingency table
+Pop33           119      B108       No contingency table
+Pop33           121      B108       No contingency table
+Pop33           124      B108       No contingency table
+Pop33           B103     B108       No contingency table
+Pop33           108      B128       No contingency table
+Pop33           G4       B128       No contingency table
+Pop33           103      B128       No contingency table
+Pop33           119      B128       No contingency table
+Pop33           121      B128       No contingency table
+Pop33           124      B128       No contingency table
+Pop33           B103     B128       No contingency table
+Pop33           B108     B128       No contingency table
+Pop34           108      G4         No contingency table
+Pop34           108      103        No contingency table
+Pop34           G4       103        No contingency table
+Pop34           108      119        No contingency table
+Pop34           G4       119        No contingency table
+Pop34           103      119        No contingency table
+Pop34           108      121        No contingency table
+Pop34           G4       121        No contingency table
+Pop34           103      121        No contingency table
+Pop34           119      121        No contingency table
+Pop34           108      124        No contingency table
+Pop34           G4       124        No contingency table
+Pop34           103      124        No contingency table
+Pop34           119      124        No contingency table
+Pop34           121      124        No contingency table
+Pop34           108      B103       No data      
+Pop34           G4       B103       No data      
+Pop34           103      B103       No data      
+Pop34           119      B103       No data      
+Pop34           121      B103       No data      
+Pop34           124      B103       No data      
+Pop34           108      B108       No contingency table
+Pop34           G4       B108       No contingency table
+Pop34           103      B108       No contingency table
+Pop34           119      B108       No contingency table
+Pop34           121      B108       No contingency table
+Pop34           124      B108       No contingency table
+Pop34           B103     B108       No data      
+Pop34           108      B128       No data      
+Pop34           G4       B128       No data      
+Pop34           103      B128       No data      
+Pop34           119      B128       No data      
+Pop34           121      B128       No data      
+Pop34           124      B128       No data      
+Pop34           B103     B128       No data      
+Pop34           B108     B128       No data      
+Pop35           108      G4         No contingency table
+Pop35           108      103        No contingency table
+Pop35           G4       103        No contingency table
+Pop35           108      119        No contingency table
+Pop35           G4       119        No information
+Pop35           103      119        No contingency table
+Pop35           108      121        No contingency table
+Pop35           G4       121        No information
+Pop35           103      121        No contingency table
+Pop35           119      121        No information
+Pop35           108      124        No contingency table
+Pop35           G4       124        No information
+Pop35           103      124        No contingency table
+Pop35           119      124        No information
+Pop35           121      124        No information
+Pop35           108      B103       No contingency table
+Pop35           G4       B103       No information
+Pop35           103      B103       No contingency table
+Pop35           119      B103       No information
+Pop35           121      B103       No information
+Pop35           124      B103       No information
+Pop35           108      B108       No data      
+Pop35           G4       B108       No data      
+Pop35           103      B108       No data      
+Pop35           119      B108       No data      
+Pop35           121      B108       No data      
+Pop35           124      B108       No data      
+Pop35           B103     B108       No data      
+Pop35           108      B128       No contingency table
+Pop35           G4       B128       No contingency table
+Pop35           103      B128       No contingency table
+Pop35           119      B128       No contingency table
+Pop35           121      B128       No contingency table
+Pop35           124      B128       No contingency table
+Pop35           B103     B128       No contingency table
+Pop35           B108     B128       No data      
+Pop36           108      G4         No contingency table
+Pop36           108      103        No contingency table
+Pop36           G4       103        No contingency table
+Pop36           108      119        No contingency table
+Pop36           G4       119        No contingency table
+Pop36           103      119        No contingency table
+Pop36           108      121        No contingency table
+Pop36           G4       121        No contingency table
+Pop36           103      121        No contingency table
+Pop36           119      121        1.000000     0.000000    25235
+Pop36           108      124        No contingency table
+Pop36           G4       124        No contingency table
+Pop36           103      124        No contingency table
+Pop36           119      124        No contingency table
+Pop36           121      124        No contingency table
+Pop36           108      B103       No contingency table
+Pop36           G4       B103       No contingency table
+Pop36           103      B103       No contingency table
+Pop36           119      B103       No contingency table
+Pop36           121      B103       No contingency table
+Pop36           124      B103       No contingency table
+Pop36           108      B108       No contingency table
+Pop36           G4       B108       No contingency table
+Pop36           103      B108       No contingency table
+Pop36           119      B108       1.000000     0.000000    33214
+Pop36           121      B108       0.329890     0.001895    33344
+Pop36           124      B108       No contingency table
+Pop36           B103     B108       No contingency table
+Pop36           108      B128       No contingency table
+Pop36           G4       B128       No contingency table
+Pop36           103      B128       No contingency table
+Pop36           119      B128       No contingency table
+Pop36           121      B128       No contingency table
+Pop36           124      B128       No contingency table
+Pop36           B103     B128       No contingency table
+Pop36           B108     B128       No contingency table
+Pop37           108      G4         No contingency table
+Pop37           108      103        No contingency table
+Pop37           G4       103        No contingency table
+Pop37           108      119        No contingency table
+Pop37           G4       119        No contingency table
+Pop37           103      119        No contingency table
+Pop37           108      121        No contingency table
+Pop37           G4       121        No contingency table
+Pop37           103      121        No contingency table
+Pop37           119      121        No contingency table
+Pop37           108      124        No contingency table
+Pop37           G4       124        No contingency table
+Pop37           103      124        No contingency table
+Pop37           119      124        No contingency table
+Pop37           121      124        No contingency table
+Pop37           108      B103       No contingency table
+Pop37           G4       B103       No contingency table
+Pop37           103      B103       No contingency table
+Pop37           119      B103       No contingency table
+Pop37           121      B103       No contingency table
+Pop37           124      B103       No contingency table
+Pop37           108      B108       No contingency table
+Pop37           G4       B108       No contingency table
+Pop37           103      B108       No contingency table
+Pop37           119      B108       No contingency table
+Pop37           121      B108       No contingency table
+Pop37           124      B108       No contingency table
+Pop37           B103     B108       No contingency table
+Pop37           108      B128       No contingency table
+Pop37           G4       B128       No contingency table
+Pop37           103      B128       No contingency table
+Pop37           119      B128       No contingency table
+Pop37           121      B128       No contingency table
+Pop37           124      B128       No contingency table
+Pop37           B103     B128       No contingency table
+Pop37           B108     B128       No contingency table
+Pop38           108      G4         0.210440     0.005118     8493
+Pop38           108      103        No contingency table
+Pop38           G4       103        No contingency table
+Pop38           108      119        0.000700     0.000408     6312
+Pop38           G4       119        0.286040     0.006646     8613
+Pop38           103      119        No contingency table
+Pop38           108      121        0.005210     0.002210     5882
+Pop38           G4       121        0.274010     0.006421     8095
+Pop38           103      121        No contingency table
+Pop38           119      121        0.000330     0.000330     5093
+Pop38           108      124        0.000000     0.000000     5763
+Pop38           G4       124        0.282400     0.005962     8129
+Pop38           103      124        No contingency table
+Pop38           119      124        0.002130     0.001600     5091
+Pop38           121      124        0.000000     0.000000     4276
+Pop38           108      B103       0.310530     0.013911     6325
+Pop38           G4       B103       0.293270     0.005912     9156
+Pop38           103      B103       No contingency table
+Pop38           119      B103       0.445950     0.017448     5536
+Pop38           121      B103       0.675750     0.018842     4703
+Pop38           124      B103       0.685690     0.018004     4783
+Pop38           108      B108       No data      
+Pop38           G4       B108       No data      
+Pop38           103      B108       No data      
+Pop38           119      B108       No data      
+Pop38           121      B108       No data      
+Pop38           124      B108       No data      
+Pop38           B103     B108       No data      
+Pop38           108      B128       1.000000     0.000000     7462
+Pop38           G4       B128       No contingency table
+Pop38           103      B128       No contingency table
+Pop38           119      B128       1.000000     0.000000     6583
+Pop38           121      B128       0.938210     0.006814     5642
+Pop38           124      B128       0.930740     0.006734     5666
+Pop38           B103     B128       0.064950     0.005190     6557
+Pop38           B108     B128       No data      
+Pop39           108      G4         1.000000     0.000000    33305
+Pop39           108      103        1.000000     0.000000    33448
+Pop39           G4       103        0.332020     0.001885    33277
+Pop39           108      119        No data      
+Pop39           G4       119        No data      
+Pop39           103      119        No data      
+Pop39           108      121        No information
+Pop39           G4       121        No information
+Pop39           103      121        No information
+Pop39           119      121        No data      
+Pop39           108      124        No information
+Pop39           G4       124        No information
+Pop39           103      124        No information
+Pop39           119      124        No data      
+Pop39           121      124        No information
+Pop39           108      B103       No information
+Pop39           G4       B103       No information
+Pop39           103      B103       No information
+Pop39           119      B103       No data      
+Pop39           121      B103       No information
+Pop39           124      B103       No information
+Pop39           108      B108       No contingency table
+Pop39           G4       B108       No contingency table
+Pop39           103      B108       No contingency table
+Pop39           119      B108       No data      
+Pop39           121      B108       No contingency table
+Pop39           124      B108       No contingency table
+Pop39           B103     B108       No contingency table
+Pop39           108      B128       No information
+Pop39           G4       B128       No information
+Pop39           103      B128       No information
+Pop39           119      B128       No data      
+Pop39           121      B128       No information
+Pop39           124      B128       No information
+Pop39           B103     B128       No information
+Pop39           B108     B128       No contingency table
+Pop40           108      G4         0.532420     0.005185    24073
+Pop40           108      103        No contingency table
+Pop40           G4       103        No contingency table
+Pop40           108      119        0.046940     0.008724     4202
+Pop40           G4       119        0.514480     0.005640    23849
+Pop40           103      119        No contingency table
+Pop40           108      121        0.082110     0.007116     6137
+Pop40           G4       121        0.657150     0.005038    16422
+Pop40           103      121        No contingency table
+Pop40           119      121        0.071070     0.008536     6152
+Pop40           108      124        0.104310     0.010717     5693
+Pop40           G4       124        0.240140     0.003823    25240
+Pop40           103      124        No contingency table
+Pop40           119      124        0.090140     0.008475     5735
+Pop40           121      124        0.061660     0.008023     6242
+Pop40           108      B103       0.066400     0.007358     6196
+Pop40           G4       B103       0.662120     0.005515    16719
+Pop40           103      B103       No contingency table
+Pop40           119      B103       0.070600     0.007716     6220
+Pop40           121      B103       0.078910     0.009400     6263
+Pop40           124      B103       0.072120     0.008416     6160
+Pop40           108      B108       0.060200     0.009415     4049
+Pop40           G4       B108       0.528440     0.005507    23811
+Pop40           103      B108       No contingency table
+Pop40           119      B108       0.061070     0.009045     4173
+Pop40           121      B108       0.072730     0.007008     6274
+Pop40           124      B108       0.112340     0.009482     5647
+Pop40           B103     B108       0.066170     0.007960     6184
+Pop40           108      B128       No data      
+Pop40           G4       B128       No data      
+Pop40           103      B128       No data      
+Pop40           119      B128       No data      
+Pop40           121      B128       No data      
+Pop40           124      B128       No data      
+Pop40           B103     B128       No data      
+Pop40           B108     B128       No data      
+Pop41           108      G4         No contingency table
+Pop41           108      103        0.122680     0.002753    19337
+Pop41           G4       103        No contingency table
+Pop41           108      119        0.835870     0.003912    18736
+Pop41           G4       119        No contingency table
+Pop41           103      119        0.305190     0.010383    11041
+Pop41           108      121        1.000000     0.000000    14418
+Pop41           G4       121        No contingency table
+Pop41           103      121        1.000000     0.000000    11993
+Pop41           119      121        0.142000     0.004087    10537
+Pop41           108      124        0.817250     0.003436    23564
+Pop41           G4       124        No contingency table
+Pop41           103      124        0.473140     0.010545    14188
+Pop41           119      124        0.021830     0.003070    11335
+Pop41           121      124        0.068700     0.002150    14128
+Pop41           108      B103       0.734980     0.004961    16567
+Pop41           G4       B103       No contingency table
+Pop41           103      B103       0.614990     0.011229     9933
+Pop41           119      B103       0.024180     0.004592     7766
+Pop41           121      B103       1.000000     0.000000     8621
+Pop41           124      B103       0.174360     0.007141    10282
+Pop41           108      B108       0.350060     0.005363    19087
+Pop41           G4       B108       No contingency table
+Pop41           103      B108       0.839400     0.006068    11969
+Pop41           119      B108       0.206750     0.011624     9530
+Pop41           121      B108       0.287600     0.005451    10622
+Pop41           124      B108       0.053920     0.004558    12471
+Pop41           B103     B108       0.013760     0.002504     8648
+Pop41           108      B128       1.000000     0.000000    37507
+Pop41           G4       B128       No contingency table
+Pop41           103      B128       0.643080     0.003259    34116
+Pop41           119      B128       0.018540     0.001020    36557
+Pop41           121      B128       0.373540     0.001873    37410
+Pop41           124      B128       0.073450     0.003101    29546
+Pop41           B103     B128       0.196810     0.001756    46590
+Pop41           B108     B128       0.681070     0.002506    38308
+Pop42           108      G4         No information
+Pop42           108      103        No information
+Pop42           G4       103        1.000000     0.000000    49668
+Pop42           108      119        No information
+Pop42           G4       119        1.000000     0.000000    33157
+Pop42           103      119        0.498550     0.003306    24857
+Pop42           108      121        No information
+Pop42           G4       121        0.335760     0.002926    33334
+Pop42           103      121        1.000000     0.000000    25344
+Pop42           119      121        1.000000     0.000000    19541
+Pop42           108      124        No information
+Pop42           G4       124        No information
+Pop42           103      124        No information
+Pop42           119      124        No information
+Pop42           121      124        No information
+Pop42           108      B103       No information
+Pop42           G4       B103       No information
+Pop42           103      B103       No information
+Pop42           119      B103       No information
+Pop42           121      B103       No information
+Pop42           124      B103       No information
+Pop42           108      B108       No information
+Pop42           G4       B108       No information
+Pop42           103      B108       No information
+Pop42           119      B108       No information
+Pop42           121      B108       No information
+Pop42           124      B108       No information
+Pop42           B103     B108       No information
+Pop42           108      B128       No information
+Pop42           G4       B128       No information
+Pop42           103      B128       No information
+Pop42           119      B128       No information
+Pop42           121      B128       No information
+Pop42           124      B128       No information
+Pop42           B103     B128       No information
+Pop42           B108     B128       No information
+Pop43           108      G4         No contingency table
+Pop43           108      103        No contingency table
+Pop43           G4       103        No contingency table
+Pop43           108      119        No contingency table
+Pop43           G4       119        No contingency table
+Pop43           103      119        No contingency table
+Pop43           108      121        No contingency table
+Pop43           G4       121        No contingency table
+Pop43           103      121        No contingency table
+Pop43           119      121        No contingency table
+Pop43           108      124        No contingency table
+Pop43           G4       124        No contingency table
+Pop43           103      124        No contingency table
+Pop43           119      124        No contingency table
+Pop43           121      124        No contingency table
+Pop43           108      B103       No contingency table
+Pop43           G4       B103       No contingency table
+Pop43           103      B103       No contingency table
+Pop43           119      B103       No contingency table
+Pop43           121      B103       No contingency table
+Pop43           124      B103       No contingency table
+Pop43           108      B108       No contingency table
+Pop43           G4       B108       No contingency table
+Pop43           103      B108       No contingency table
+Pop43           119      B108       No contingency table
+Pop43           121      B108       No contingency table
+Pop43           124      B108       No contingency table
+Pop43           B103     B108       No contingency table
+Pop43           108      B128       No contingency table
+Pop43           G4       B128       No contingency table
+Pop43           103      B128       No contingency table
+Pop43           119      B128       No contingency table
+Pop43           121      B128       No contingency table
+Pop43           124      B128       No contingency table
+Pop43           B103     B128       No contingency table
+Pop43           B108     B128       No contingency table
+Pop44           108      G4         1.000000     0.000000    50108
+Pop44           108      103        1.000000     0.000000    50094
+Pop44           G4       103        1.000000     0.000000    24676
+Pop44           108      119        0.335180     0.002566    33496
+Pop44           G4       119        0.498990     0.003626    24906
+Pop44           103      119        0.504960     0.003541    25145
+Pop44           108      121        1.000000     0.000000    33534
+Pop44           G4       121        1.000000     0.000000    50081
+Pop44           103      121        1.000000     0.000000    49998
+Pop44           119      121        1.000000     0.000000    33051
+Pop44           108      124        1.000000     0.000000    33343
+Pop44           G4       124        0.501160     0.003831    24837
+Pop44           103      124        1.000000     0.000000    25151
+Pop44           119      124        1.000000     0.000000    19566
+Pop44           121      124        0.332610     0.002441    33485
+Pop44           108      B103       No information
+Pop44           G4       B103       No information
+Pop44           103      B103       No information
+Pop44           119      B103       No information
+Pop44           121      B103       No information
+Pop44           124      B103       No information
+Pop44           108      B108       No information
+Pop44           G4       B108       No information
+Pop44           103      B108       No information
+Pop44           119      B108       No information
+Pop44           121      B108       No information
+Pop44           124      B108       No information
+Pop44           B103     B108       No information
+Pop44           108      B128       No contingency table
+Pop44           G4       B128       No contingency table
+Pop44           103      B128       No contingency table
+Pop44           119      B128       No contingency table
+Pop44           121      B128       No contingency table
+Pop44           124      B128       No contingency table
+Pop44           B103     B128       No contingency table
+Pop44           B108     B128       No contingency table
+Pop45           108      G4         0.250400     0.006855    24658
+Pop45           108      103        0.830640     0.014699     5775
+Pop45           G4       103        0.084100     0.005516    22173
+Pop45           108      119        0.356590     0.021920     5752
+Pop45           G4       119        0.032390     0.002874    23837
+Pop45           103      119        0.036960     0.007321     4833
+Pop45           108      121        0.274380     0.020668     5596
+Pop45           G4       121        0.488470     0.009708    23424
+Pop45           103      121        0.572520     0.021030     5823
+Pop45           119      121        0.177890     0.017426     5794
+Pop45           108      124        0.556600     0.021177     6546
+Pop45           G4       124        0.080410     0.004303    27136
+Pop45           103      124        0.086700     0.011937     6266
+Pop45           119      124        0.541660     0.021756     5847
+Pop45           121      124        0.391420     0.021249     5966
+Pop45           108      B103       0.502070     0.029072     2598
+Pop45           G4       B103       0.069070     0.006782    14045
+Pop45           103      B103       0.206790     0.026570     2478
+Pop45           119      B103       0.160000     0.025381     2097
+Pop45           121      B103       0.001140     0.001140     2314
+Pop45           124      B103       0.332340     0.028481     2934
+Pop45           108      B108       0.002000     0.001184     4364
+Pop45           G4       B108       0.045480     0.003816    18586
+Pop45           103      B108       0.584070     0.024498     3517
+Pop45           119      B108       0.617180     0.023182     4096
+Pop45           121      B108       0.296510     0.020187     4680
+Pop45           124      B108       0.154260     0.015075     4568
+Pop45           B103     B108       0.008050     0.004062     1687
+Pop45           108      B128       0.230860     0.014723     6258
+Pop45           G4       B128       0.603720     0.010265    14837
+Pop45           103      B128       0.811440     0.017852     3137
+Pop45           119      B128       0.601880     0.026398     3105
+Pop45           121      B128       0.053820     0.008995     4738
+Pop45           124      B128       0.084010     0.014714     2686
+Pop45           B103     B128       0.000000     0.000000     1891
+Pop45           B108     B128       0.202540     0.022455     2530
+Pop46           108      G4         0.256040     0.009407     9716
+Pop46           108      103        0.736230     0.007334    19318
+Pop46           G4       103        0.335120     0.005030    16278
+Pop46           108      119        1.000000     0.000000     3199
+Pop46           G4       119        0.958830     0.004114     8504
+Pop46           103      119        0.618620     0.010499    11605
+Pop46           108      121        0.432860     0.022152     4899
+Pop46           G4       121        0.127210     0.009608     7603
+Pop46           103      121        0.221140     0.007708    18304
+Pop46           119      121        1.000000     0.000000     2432
+Pop46           108      124        0.378540     0.008347    13752
+Pop46           G4       124        0.253910     0.004331    17717
+Pop46           103      124        1.000000     0.000000    21854
+Pop46           119      124        0.607510     0.009819    12720
+Pop46           121      124        0.116360     0.005874    12417
+Pop46           108      B103       1.000000     0.000000     3211
+Pop46           G4       B103       0.926430     0.006434     7072
+Pop46           103      B103       0.127050     0.007175    13841
+Pop46           119      B103       1.000000     0.000000     1459
+Pop46           121      B103       0.462830     0.029865     2340
+Pop46           124      B103       1.000000     0.000000    11411
+Pop46           108      B108       0.757630     0.018948     3821
+Pop46           G4       B108       0.392000     0.013992     7905
+Pop46           103      B108       0.919700     0.004107    15495
+Pop46           119      B108       1.000000     0.000000     1730
+Pop46           121      B108       0.298720     0.024249     2833
+Pop46           124      B108       0.823930     0.007612    12091
+Pop46           B103     B108       1.000000     0.000000     1678
+Pop46           108      B128       0.424100     0.015655     6012
+Pop46           G4       B128       0.446810     0.006534    10060
+Pop46           103      B128       0.708380     0.008547    14052
+Pop46           119      B128       No information
+Pop46           121      B128       1.000000     0.000000     4083
+Pop46           124      B128       No information
+Pop46           B103     B128       1.000000     0.000000     1587
+Pop46           B108     B128       0.302030     0.022366     3368
+Pop47           108      G4         No information
+Pop47           108      103        No contingency table
+Pop47           G4       103        No contingency table
+Pop47           108      119        No information
+Pop47           G4       119        No information
+Pop47           103      119        0.579450     0.012727     7339
+Pop47           108      121        No information
+Pop47           G4       121        No information
+Pop47           103      121        0.483490     0.013543     8944
+Pop47           119      121        0.015130     0.006321     2076
+Pop47           108      124        No information
+Pop47           G4       124        No information
+Pop47           103      124        0.815310     0.006950    11992
+Pop47           119      124        0.066560     0.010584     3689
+Pop47           121      124        0.148490     0.018743     3396
+Pop47           108      B103       No information
+Pop47           G4       B103       No information
+Pop47           103      B103       0.771960     0.008529     9689
+Pop47           119      B103       0.071200     0.014671     2699
+Pop47           121      B103       0.044480     0.013538     1997
+Pop47           124      B103       0.206580     0.017988     4096
+Pop47           108      B108       No information
+Pop47           G4       B108       No information
+Pop47           103      B108       No contingency table
+Pop47           119      B108       No information
+Pop47           121      B108       No information
+Pop47           124      B108       No information
+Pop47           B103     B108       No information
+Pop47           108      B128       No information
+Pop47           G4       B128       No information
+Pop47           103      B128       No contingency table
+Pop47           119      B128       0.063200     0.006575     6218
+Pop47           121      B128       0.072100     0.007122     6197
+Pop47           124      B128       0.080960     0.008069     6240
+Pop47           B103     B128       0.067310     0.006900     6353
+Pop47           B108     B128       No information
+Pop48           108      G4         No contingency table
+Pop48           108      103        No contingency table
+Pop48           G4       103        No contingency table
+Pop48           108      119        No contingency table
+Pop48           G4       119        No contingency table
+Pop48           103      119        No contingency table
+Pop48           108      121        No contingency table
+Pop48           G4       121        No contingency table
+Pop48           103      121        No contingency table
+Pop48           119      121        No contingency table
+Pop48           108      124        No contingency table
+Pop48           G4       124        No contingency table
+Pop48           103      124        No contingency table
+Pop48           119      124        No contingency table
+Pop48           121      124        No contingency table
+Pop48           108      B103       No contingency table
+Pop48           G4       B103       No contingency table
+Pop48           103      B103       No contingency table
+Pop48           119      B103       No contingency table
+Pop48           121      B103       No contingency table
+Pop48           124      B103       No contingency table
+Pop48           108      B108       No contingency table
+Pop48           G4       B108       No contingency table
+Pop48           103      B108       No contingency table
+Pop48           119      B108       No contingency table
+Pop48           121      B108       No contingency table
+Pop48           124      B108       No contingency table
+Pop48           B103     B108       No contingency table
+Pop48           108      B128       No contingency table
+Pop48           G4       B128       No contingency table
+Pop48           103      B128       No contingency table
+Pop48           119      B128       No contingency table
+Pop48           121      B128       No contingency table
+Pop48           124      B128       No contingency table
+Pop48           B103     B128       No contingency table
+Pop48           B108     B128       No contingency table
+Pop49           108      G4         1.000000     0.000000    34881
+Pop49           108      103        0.600440     0.018140     5272
+Pop49           G4       103        0.492790     0.005409    30166
+Pop49           108      119        0.397740     0.012731    11511
+Pop49           G4       119        0.914040     0.002091    36196
+Pop49           103      119        0.589340     0.013190     8158
+Pop49           108      121        0.519280     0.010836    10978
+Pop49           G4       121        0.220390     0.003978    35227
+Pop49           103      121        0.669130     0.013342     7553
+Pop49           119      121        0.007200     0.001915    11583
+Pop49           108      124        0.757570     0.008741     9704
+Pop49           G4       124        0.126770     0.003465    33201
+Pop49           103      124        0.447060     0.017629     6312
+Pop49           119      124        0.671750     0.008965    10302
+Pop49           121      124        0.975990     0.002528     9642
+Pop49           108      B103       1.000000     0.000000     3357
+Pop49           G4       B103       1.000000     0.000000    21718
+Pop49           103      B103       1.000000     0.000000     2838
+Pop49           119      B103       1.000000     0.000000     4733
+Pop49           121      B103       1.000000     0.000000     4585
+Pop49           124      B103       1.000000     0.000000     3310
+Pop49           108      B108       0.717390     0.007269    20021
+Pop49           G4       B108       0.231910     0.002806    49692
+Pop49           103      B108       0.009990     0.001658    16470
+Pop49           119      B108       0.259530     0.005733    24377
+Pop49           121      B108       0.079240     0.003673    23418
+Pop49           124      B108       0.186420     0.005962    22123
+Pop49           B103     B108       0.539390     0.011984    13124
+Pop49           108      B128       0.400900     0.018769     5038
+Pop49           G4       B128       1.000000     0.000000    26719
+Pop49           103      B128       1.000000     0.000000     3106
+Pop49           119      B128       1.000000     0.000000     8102
+Pop49           121      B128       1.000000     0.000000     5224
+Pop49           124      B128       1.000000     0.000000     8598
+Pop49           B103     B128       0.087260     0.013211     3585
+Pop49           B108     B128       0.812180     0.006311    15541
+Pop50           108      G4         No contingency table
+Pop50           108      103        No contingency table
+Pop50           G4       103        No contingency table
+Pop50           108      119        No contingency table
+Pop50           G4       119        No contingency table
+Pop50           103      119        No contingency table
+Pop50           108      121        No contingency table
+Pop50           G4       121        No contingency table
+Pop50           103      121        No contingency table
+Pop50           119      121        No contingency table
+Pop50           108      124        No contingency table
+Pop50           G4       124        No contingency table
+Pop50           103      124        No contingency table
+Pop50           119      124        No contingency table
+Pop50           121      124        No contingency table
+Pop50           108      B103       No contingency table
+Pop50           G4       B103       No contingency table
+Pop50           103      B103       No contingency table
+Pop50           119      B103       No contingency table
+Pop50           121      B103       No contingency table
+Pop50           124      B103       No contingency table
+Pop50           108      B108       No contingency table
+Pop50           G4       B108       No contingency table
+Pop50           103      B108       No contingency table
+Pop50           119      B108       No contingency table
+Pop50           121      B108       No contingency table
+Pop50           124      B108       No contingency table
+Pop50           B103     B108       No contingency table
+Pop50           108      B128       No contingency table
+Pop50           G4       B128       No contingency table
+Pop50           103      B128       No contingency table
+Pop50           119      B128       No contingency table
+Pop50           121      B128       No contingency table
+Pop50           124      B128       No contingency table
+Pop50           B103     B128       No contingency table
+Pop50           B108     B128       No contingency table
+Pop51           108      G4         0.285580     0.004198    27589
+Pop51           108      103        0.889730     0.003328    17447
+Pop51           G4       103        0.048430     0.001536    31803
+Pop51           108      119        0.889640     0.003596    17176
+Pop51           G4       119        1.000000     0.000000    31510
+Pop51           103      119        0.436350     0.006043    21688
+Pop51           108      121        0.346910     0.010709    10269
+Pop51           G4       121        0.810030     0.003264    25291
+Pop51           103      121        1.000000     0.000000    14396
+Pop51           119      121        0.582630     0.007581    14486
+Pop51           108      124        0.616030     0.007201    12933
+Pop51           G4       124        0.712140     0.003458    27929
+Pop51           103      124        0.310410     0.005820    17228
+Pop51           119      124        0.885460     0.003891    17249
+Pop51           121      124        1.000000     0.000000    10342
+Pop51           108      B103       1.000000     0.000000    10399
+Pop51           G4       B103       0.242600     0.003341    25076
+Pop51           103      B103       0.579640     0.007919    14598
+Pop51           119      B103       0.583310     0.007218    14455
+Pop51           121      B103       1.000000     0.000000     7553
+Pop51           124      B103       1.000000     0.000000    10203
+Pop51           108      B108       0.092210     0.005110    14193
+Pop51           G4       B108       1.000000     0.000000    30741
+Pop51           103      B108       1.000000     0.000000    18854
+Pop51           119      B108       1.000000     0.000000    18853
+Pop51           121      B108       0.256410     0.008784    11386
+Pop51           124      B108       0.488390     0.008043    14116
+Pop51           B103     B108       1.000000     0.000000    11417
+Pop51           108      B128       1.000000     0.000000    24874
+Pop51           G4       B128       1.000000     0.000000    24830
+Pop51           103      B128       1.000000     0.000000    25139
+Pop51           119      B128       1.000000     0.000000    25032
+Pop51           121      B128       1.000000     0.000000    49796
+Pop51           124      B128       No information
+Pop51           B103     B128       No information
+Pop51           B108     B128       0.494320     0.003825    24945
+Pop52           108      G4         0.602450     0.002962    33659
+Pop52           108      103        No contingency table
+Pop52           G4       103        No contingency table
+Pop52           108      119        1.000000     0.000000    16830
+Pop52           G4       119        1.000000     0.000000    30015
+Pop52           103      119        No contingency table
+Pop52           108      121        0.496710     0.003514    24685
+Pop52           G4       121        1.000000     0.000000    49971
+Pop52           103      121        No contingency table
+Pop52           119      121        0.491350     0.003574    24676
+Pop52           108      124        No information
+Pop52           G4       124        No information
+Pop52           103      124        No contingency table
+Pop52           119      124        No information
+Pop52           121      124        No information
+Pop52           108      B103       1.000000     0.000000    16651
+Pop52           G4       B103       0.398780     0.003812    29904
+Pop52           103      B103       No contingency table
+Pop52           119      B103       1.000000     0.000000    10458
+Pop52           121      B103       No information
+Pop52           124      B103       No information
+Pop52           108      B108       0.602890     0.004614    20088
+Pop52           G4       B108       1.000000     0.000000    36496
+Pop52           103      B108       No contingency table
+Pop52           119      B108       1.000000     0.000000    14129
+Pop52           121      B108       1.000000     0.000000    25251
+Pop52           124      B108       No information
+Pop52           B103     B108       1.000000     0.000000    14398
+Pop52           108      B128       No contingency table
+Pop52           G4       B128       No contingency table
+Pop52           103      B128       No data      
+Pop52           119      B128       No contingency table
+Pop52           121      B128       No contingency table
+Pop52           124      B128       No contingency table
+Pop52           B103     B128       No contingency table
+Pop52           B108     B128       No contingency table
+Pop53           108      G4         0.553780     0.008235     9138
+Pop53           108      103        No contingency table
+Pop53           G4       103        No contingency table
+Pop53           108      119        0.006430     0.002478     3371
+Pop53           G4       119        0.453640     0.006790     9930
+Pop53           103      119        No contingency table
+Pop53           108      121        0.592910     0.013426    10015
+Pop53           G4       121        1.000000     0.000000    21114
+Pop53           103      121        No contingency table
+Pop53           119      121        0.039870     0.002989    17130
+Pop53           108      124        0.586450     0.018850     5497
+Pop53           G4       124        1.000000     0.000000    13047
+Pop53           103      124        No contingency table
+Pop53           119      124        0.410960     0.015848     7339
+Pop53           121      124        0.893430     0.003956    21941
+Pop53           108      B103       0.001450     0.001450     2697
+Pop53           G4       B103       0.451230     0.007012     9924
+Pop53           103      B103       No contingency table
+Pop53           119      B103       0.032640     0.008702     3393
+Pop53           121      B103       0.114940     0.007142    14503
+Pop53           124      B103       0.520350     0.018284     5692
+Pop53           108      B108       0.205830     0.020623     3395
+Pop53           G4       B108       0.725650     0.005777    12663
+Pop53           103      B108       No contingency table
+Pop53           119      B108       0.019760     0.006445     4954
+Pop53           121      B108       0.009810     0.002021     9498
+Pop53           124      B108       0.067170     0.007009     7743
+Pop53           B103     B108       0.019910     0.007059     3045
+Pop53           108      B128       0.119510     0.013734     4117
+Pop53           G4       B128       No contingency table
+Pop53           103      B128       No contingency table
+Pop53           119      B128       0.512740     0.010681     9378
+Pop53           121      B128       0.465230     0.011326    12457
+Pop53           124      B128       0.415790     0.010521    10328
+Pop53           B103     B128       0.025680     0.007393     2760
+Pop53           B108     B128       0.100720     0.012387     4142
+Pop54           108      G4         0.337410     0.001677    33426
+Pop54           108      103        No information
+Pop54           G4       103        No information
+Pop54           108      119        No information
+Pop54           G4       119        No information
+Pop54           103      119        No information
+Pop54           108      121        0.695980     0.005272    16150
+Pop54           G4       121        No information
+Pop54           103      121        No information
+Pop54           119      121        No information
+Pop54           108      124        No information
+Pop54           G4       124        No information
+Pop54           103      124        No information
+Pop54           119      124        No information
+Pop54           121      124        No information
+Pop54           108      B103       No information
+Pop54           G4       B103       No contingency table
+Pop54           103      B103       No information
+Pop54           119      B103       No information
+Pop54           121      B103       No information
+Pop54           124      B103       No information
+Pop54           108      B108       0.705830     0.005654    16259
+Pop54           G4       B108       0.332350     0.001858    33545
+Pop54           103      B108       No information
+Pop54           119      B108       No information
+Pop54           121      B108       0.699890     0.005107    16033
+Pop54           124      B108       No information
+Pop54           B103     B108       No contingency table
+Pop54           108      B128       No data      
+Pop54           G4       B128       No data      
+Pop54           103      B128       No data      
+Pop54           119      B128       No data      
+Pop54           121      B128       No data      
+Pop54           124      B128       No data      
+Pop54           B103     B128       No data      
+Pop54           B108     B128       No data      
+Pop55           108      G4         0.367690     0.005718    23986
+Pop55           108      103        0.617310     0.004427    18435
+Pop55           G4       103        0.249700     0.002350    29287
+Pop55           108      119        0.036080     0.003663     9936
+Pop55           G4       119        0.066690     0.003772    16248
+Pop55           103      119        0.492750     0.006102    13393
+Pop55           108      121        0.577560     0.009291    11571
+Pop55           G4       121        0.740130     0.006372    18470
+Pop55           103      121        0.374270     0.004703    13744
+Pop55           119      121        0.277950     0.014614     6394
+Pop55           108      124        1.000000     0.000000    12714
+Pop55           G4       124        1.000000     0.000000    17874
+Pop55           103      124        1.000000     0.000000    19782
+Pop55           119      124        1.000000     0.000000     9240
+Pop55           121      124        1.000000     0.000000    12866
+Pop55           108      B103       0.031010     0.003858     9678
+Pop55           G4       B103       0.069470     0.003859    16096
+Pop55           103      B103       0.510480     0.005927    13068
+Pop55           119      B103       0.004390     0.002299     5038
+Pop55           121      B103       0.283040     0.013264     6537
+Pop55           124      B103       1.000000     0.000000     9348
+Pop55           108      B108       0.434800     0.008454    12687
+Pop55           G4       B108       0.554920     0.006022    19799
+Pop55           103      B108       0.251200     0.003979    16390
+Pop55           119      B108       0.203380     0.011696     6876
+Pop55           121      B108       1.000000     0.000000     8646
+Pop55           124      B108       1.000000     0.000000     9218
+Pop55           B103     B108       0.219330     0.012617     6767
+Pop55           108      B128       0.699730     0.006613    15918
+Pop55           G4       B128       0.707230     0.006057    16156
+Pop55           103      B128       1.000000     0.000000    16607
+Pop55           119      B128       1.000000     0.000000     8113
+Pop55           121      B128       1.000000     0.000000     8162
+Pop55           124      B128       0.203090     0.004969    16683
+Pop55           B103     B128       1.000000     0.000000     8304
+Pop55           B108     B128       1.000000     0.000000    11386
+Pop56           108      G4         No information
+Pop56           108      103        No information
+Pop56           G4       103        No information
+Pop56           108      119        No information
+Pop56           G4       119        1.000000     0.000000    33084
+Pop56           103      119        No information
+Pop56           108      121        No contingency table
+Pop56           G4       121        No contingency table
+Pop56           103      121        No contingency table
+Pop56           119      121        No contingency table
+Pop56           108      124        No information
+Pop56           G4       124        No information
+Pop56           103      124        No information
+Pop56           119      124        No information
+Pop56           121      124        No contingency table
+Pop56           108      B103       No information
+Pop56           G4       B103       No information
+Pop56           103      B103       No information
+Pop56           119      B103       No information
+Pop56           121      B103       No contingency table
+Pop56           124      B103       No information
+Pop56           108      B108       No information
+Pop56           G4       B108       No information
+Pop56           103      B108       No information
+Pop56           119      B108       No information
+Pop56           121      B108       No contingency table
+Pop56           124      B108       No information
+Pop56           B103     B108       No information
+Pop56           108      B128       No information
+Pop56           G4       B128       No information
+Pop56           103      B128       No information
+Pop56           119      B128       No contingency table
+Pop56           121      B128       No contingency table
+Pop56           124      B128       No information
+Pop56           B103     B128       No information
+Pop56           B108     B128       No information
+Pop57           108      G4         0.884200     0.004866    16011
+Pop57           108      103        0.362540     0.027803     3413
+Pop57           G4       103        0.730570     0.007747    13079
+Pop57           108      119        0.086940     0.011326     5424
+Pop57           G4       119        1.000000     0.000000    13880
+Pop57           103      119        0.129430     0.013520     5461
+Pop57           108      121        0.095270     0.015204     4100
+Pop57           G4       121        0.173910     0.007071    16644
+Pop57           103      121        0.929170     0.009181     4885
+Pop57           119      121        0.187020     0.012418     7953
+Pop57           108      124        0.954720     0.005747     5050
+Pop57           G4       124        0.929590     0.004544    11335
+Pop57           103      124        1.000000     0.000000     4138
+Pop57           119      124        0.411060     0.019700     5438
+Pop57           121      124        0.061500     0.009208     6635
+Pop57           108      B103       0.003930     0.002653     3815
+Pop57           G4       B103       0.681760     0.006059    22944
+Pop57           103      B103       0.108470     0.013015     4358
+Pop57           119      B103       0.068540     0.009807     6464
+Pop57           121      B103       0.182530     0.011334     9754
+Pop57           124      B103       0.245880     0.021729     3109
+Pop57           108      B108       0.191860     0.014535     5547
+Pop57           G4       B108       0.173820     0.004378    21538
+Pop57           103      B108       1.000000     0.000000     4134
+Pop57           119      B108       0.580260     0.019438     4519
+Pop57           121      B108       0.032940     0.005036     7032
+Pop57           124      B108       0.679060     0.023672     3297
+Pop57           B103     B108       0.000000     0.000000     3733
+Pop57           108      B128       No data      
+Pop57           G4       B128       No data      
+Pop57           103      B128       No data      
+Pop57           119      B128       No data      
+Pop57           121      B128       No data      
+Pop57           124      B128       No data      
+Pop57           B103     B128       No data      
+Pop57           B108     B128       No data      
+Pop58           108      G4         No contingency table
+Pop58           108      103        No contingency table
+Pop58           G4       103        No contingency table
+Pop58           108      119        No contingency table
+Pop58           G4       119        No information
+Pop58           103      119        No contingency table
+Pop58           108      121        No contingency table
+Pop58           G4       121        No contingency table
+Pop58           103      121        No contingency table
+Pop58           119      121        No contingency table
+Pop58           108      124        No contingency table
+Pop58           G4       124        No information
+Pop58           103      124        No contingency table
+Pop58           119      124        No information
+Pop58           121      124        No contingency table
+Pop58           108      B103       No contingency table
+Pop58           G4       B103       No information
+Pop58           103      B103       No contingency table
+Pop58           119      B103       No information
+Pop58           121      B103       No contingency table
+Pop58           124      B103       No information
+Pop58           108      B108       No contingency table
+Pop58           G4       B108       No information
+Pop58           103      B108       No contingency table
+Pop58           119      B108       No information
+Pop58           121      B108       No contingency table
+Pop58           124      B108       No information
+Pop58           B103     B108       No information
+Pop58           108      B128       No contingency table
+Pop58           G4       B128       No information
+Pop58           103      B128       No contingency table
+Pop58           119      B128       No information
+Pop58           121      B128       No contingency table
+Pop58           124      B128       No information
+Pop58           B103     B128       No information
+Pop58           B108     B128       No information
+Pop59           108      G4         0.021270     0.002220    22181
+Pop59           108      103        0.050190     0.011915     3268
+Pop59           G4       103        0.453110     0.011922    16296
+Pop59           108      119        0.958690     0.006249     6561
+Pop59           G4       119        0.606670     0.008654    25551
+Pop59           103      119        0.854690     0.016430     3869
+Pop59           108      121        0.850940     0.014128     4581
+Pop59           G4       121        0.763210     0.008270    19737
+Pop59           103      121        0.789860     0.024256     2475
+Pop59           119      121        0.368910     0.023035     5220
+Pop59           108      124        0.943870     0.006611     5286
+Pop59           G4       124        0.773580     0.007539    18944
+Pop59           103      124        0.356290     0.025836     2733
+Pop59           119      124        0.449720     0.020670     5486
+Pop59           121      124        0.702670     0.023519     3149
+Pop59           108      B103       0.495660     0.036523     2208
+Pop59           G4       B103       0.524720     0.014670    12120
+Pop59           103      B103       1.000000     0.000000      785
+Pop59           119      B103       1.000000     0.000000     2287
+Pop59           121      B103       0.254450     0.033257     1347
+Pop59           124      B103       1.000000     0.000000     1439
+Pop59           108      B108       0.193440     0.023784     3405
+Pop59           G4       B108       0.001710     0.000695    16784
+Pop59           103      B108       0.923840     0.015673     1754
+Pop59           119      B108       0.160170     0.018811     4039
+Pop59           121      B108       0.900730     0.016007     2466
+Pop59           124      B108       0.354070     0.026900     2827
+Pop59           B103     B108       0.011510     0.010053      950
+Pop59           108      B128       No data      
+Pop59           G4       B128       No data      
+Pop59           103      B128       No data      
+Pop59           119      B128       No data      
+Pop59           121      B128       No data      
+Pop59           124      B128       No data      
+Pop59           B103     B128       No data      
+Pop59           B108     B128       No data      
+Pop60           108      G4         No contingency table
+Pop60           108      103        1.000000     0.000000    33463
+Pop60           G4       103        No contingency table
+Pop60           108      119        No information
+Pop60           G4       119        No contingency table
+Pop60           103      119        No information
+Pop60           108      121        No information
+Pop60           G4       121        No contingency table
+Pop60           103      121        No information
+Pop60           119      121        No information
+Pop60           108      124        0.332090     0.001939    33324
+Pop60           G4       124        No contingency table
+Pop60           103      124        1.000000     0.000000    33332
+Pop60           119      124        No information
+Pop60           121      124        No information
+Pop60           108      B103       No information
+Pop60           G4       B103       No contingency table
+Pop60           103      B103       No information
+Pop60           119      B103       No information
+Pop60           121      B103       No information
+Pop60           124      B103       No information
+Pop60           108      B108       No information
+Pop60           G4       B108       No contingency table
+Pop60           103      B108       No information
+Pop60           119      B108       No information
+Pop60           121      B108       No information
+Pop60           124      B108       No information
+Pop60           B103     B108       No information
+Pop60           108      B128       No information
+Pop60           G4       B128       No contingency table
+Pop60           103      B128       No information
+Pop60           119      B128       No information
+Pop60           121      B128       No information
+Pop60           124      B128       No information
+Pop60           B103     B128       No information
+Pop60           B108     B128       No information
+Pop61           108      G4         0.767620     0.006443    15623
+Pop61           108      103        No contingency table
+Pop61           G4       103        No contingency table
+Pop61           108      119        0.383640     0.015659     5706
+Pop61           G4       119        0.108090     0.005419    13206
+Pop61           103      119        No contingency table
+Pop61           108      121        1.000000     0.000000     4658
+Pop61           G4       121        1.000000     0.000000    11816
+Pop61           103      121        No contingency table
+Pop61           119      121        1.000000     0.000000     2771
+Pop61           108      124        0.181230     0.008782     8795
+Pop61           G4       124        0.925980     0.003259    17212
+Pop61           103      124        No contingency table
+Pop61           119      124        1.000000     0.000000     6147
+Pop61           121      124        1.000000     0.000000     4960
+Pop61           108      B103       1.000000     0.000000     4712
+Pop61           G4       B103       1.000000     0.000000    11795
+Pop61           103      B103       No contingency table
+Pop61           119      B103       1.000000     0.000000     2726
+Pop61           121      B103       1.000000     0.000000     2122
+Pop61           124      B103       1.000000     0.000000     5036
+Pop61           108      B108       0.372650     0.016408     5445
+Pop61           G4       B108       0.547550     0.008226    12966
+Pop61           103      B108       No contingency table
+Pop61           119      B108       1.000000     0.000000     3440
+Pop61           121      B108       1.000000     0.000000     2755
+Pop61           124      B108       1.000000     0.000000     6213
+Pop61           B103     B108       1.000000     0.000000     2718
+Pop61           108      B128       0.059740     0.003120    14336
+Pop61           G4       B128       1.000000     0.000000    31208
+Pop61           103      B128       No contingency table
+Pop61           119      B128       1.000000     0.000000     9262
+Pop61           121      B128       1.000000     0.000000     9161
+Pop61           124      B128       1.000000     0.000000    17684
+Pop61           B103     B128       No information
+Pop61           B108     B128       1.000000     0.000000     9276
+Pop62           108      G4         0.523230     0.005625    18113
+Pop62           108      103        0.164270     0.004318    23323
+Pop62           G4       103        1.000000     0.000000    23582
+Pop62           108      119        0.486350     0.011219     9413
+Pop62           G4       119        0.322080     0.009634    12405
+Pop62           103      119        0.240940     0.006485    14496
+Pop62           108      121        1.000000     0.000000     9713
+Pop62           G4       121        0.448100     0.012606     9799
+Pop62           103      121        1.000000     0.000000    12032
+Pop62           119      121        No information
+Pop62           108      124        0.732790     0.008009    10810
+Pop62           G4       124        0.170930     0.007624    10766
+Pop62           103      124        1.000000     0.000000    13827
+Pop62           119      124        1.000000     0.000000     5706
+Pop62           121      124        1.000000     0.000000     2815
+Pop62           108      B103       No information
+Pop62           G4       B103       No information
+Pop62           103      B103       No information
+Pop62           119      B103       No information
+Pop62           121      B103       No information
+Pop62           124      B103       No information
+Pop62           108      B108       No information
+Pop62           G4       B108       No information
+Pop62           103      B108       No information
+Pop62           119      B108       No information
+Pop62           121      B108       No information
+Pop62           124      B108       No information
+Pop62           B103     B108       No information
+Pop62           108      B128       No information
+Pop62           G4       B128       No information
+Pop62           103      B128       No information
+Pop62           119      B128       No information
+Pop62           121      B128       No information
+Pop62           124      B128       No information
+Pop62           B103     B128       No information
+Pop62           B108     B128       No information
+Pop63           108      G4         No contingency table
+Pop63           108      103        No contingency table
+Pop63           G4       103        No contingency table
+Pop63           108      119        No contingency table
+Pop63           G4       119        No contingency table
+Pop63           103      119        No contingency table
+Pop63           108      121        No contingency table
+Pop63           G4       121        No contingency table
+Pop63           103      121        No contingency table
+Pop63           119      121        No contingency table
+Pop63           108      124        No contingency table
+Pop63           G4       124        No contingency table
+Pop63           103      124        No contingency table
+Pop63           119      124        No contingency table
+Pop63           121      124        No contingency table
+Pop63           108      B103       No contingency table
+Pop63           G4       B103       No contingency table
+Pop63           103      B103       No contingency table
+Pop63           119      B103       No contingency table
+Pop63           121      B103       No contingency table
+Pop63           124      B103       No contingency table
+Pop63           108      B108       No data      
+Pop63           G4       B108       No data      
+Pop63           103      B108       No data      
+Pop63           119      B108       No data      
+Pop63           121      B108       No data      
+Pop63           124      B108       No data      
+Pop63           B103     B108       No data      
+Pop63           108      B128       No contingency table
+Pop63           G4       B128       No contingency table
+Pop63           103      B128       No contingency table
+Pop63           119      B128       No contingency table
+Pop63           121      B128       No contingency table
+Pop63           124      B128       No contingency table
+Pop63           B103     B128       No contingency table
+Pop63           B108     B128       No data      
+Pop64           108      G4         No contingency table
+Pop64           108      103        No contingency table
+Pop64           G4       103        No contingency table
+Pop64           108      119        No contingency table
+Pop64           G4       119        No contingency table
+Pop64           103      119        No contingency table
+Pop64           108      121        No contingency table
+Pop64           G4       121        No contingency table
+Pop64           103      121        No contingency table
+Pop64           119      121        No contingency table
+Pop64           108      124        No contingency table
+Pop64           G4       124        No contingency table
+Pop64           103      124        No contingency table
+Pop64           119      124        No contingency table
+Pop64           121      124        No contingency table
+Pop64           108      B103       No contingency table
+Pop64           G4       B103       No contingency table
+Pop64           103      B103       No contingency table
+Pop64           119      B103       No contingency table
+Pop64           121      B103       No contingency table
+Pop64           124      B103       No contingency table
+Pop64           108      B108       No contingency table
+Pop64           G4       B108       No contingency table
+Pop64           103      B108       No contingency table
+Pop64           119      B108       No contingency table
+Pop64           121      B108       No contingency table
+Pop64           124      B108       No contingency table
+Pop64           B103     B108       No contingency table
+Pop64           108      B128       No data      
+Pop64           G4       B128       No data      
+Pop64           103      B128       No data      
+Pop64           119      B128       No data      
+Pop64           121      B128       No data      
+Pop64           124      B128       No data      
+Pop64           B103     B128       No data      
+Pop64           B108     B128       No data      
+Pop65           108      G4         No information
+Pop65           108      103        No information
+Pop65           G4       103        No information
+Pop65           108      119        No data      
+Pop65           G4       119        No data      
+Pop65           103      119        No data      
+Pop65           108      121        No information
+Pop65           G4       121        No information
+Pop65           103      121        No information
+Pop65           119      121        No data      
+Pop65           108      124        No information
+Pop65           G4       124        No information
+Pop65           103      124        No information
+Pop65           119      124        No data      
+Pop65           121      124        No information
+Pop65           108      B103       No information
+Pop65           G4       B103       No information
+Pop65           103      B103       No information
+Pop65           119      B103       No data      
+Pop65           121      B103       No information
+Pop65           124      B103       No information
+Pop65           108      B108       No information
+Pop65           G4       B108       No information
+Pop65           103      B108       No information
+Pop65           119      B108       No data      
+Pop65           121      B108       No information
+Pop65           124      B108       No information
+Pop65           B103     B108       No information
+Pop65           108      B128       No information
+Pop65           G4       B128       No information
+Pop65           103      B128       No information
+Pop65           119      B128       No data      
+Pop65           121      B128       No information
+Pop65           124      B128       No information
+Pop65           B103     B128       No information
+Pop65           B108     B128       No information
+Pop66           108      G4         No contingency table
+Pop66           108      103        No contingency table
+Pop66           G4       103        No contingency table
+Pop66           108      119        No contingency table
+Pop66           G4       119        No contingency table
+Pop66           103      119        No contingency table
+Pop66           108      121        No contingency table
+Pop66           G4       121        No contingency table
+Pop66           103      121        No contingency table
+Pop66           119      121        No contingency table
+Pop66           108      124        No contingency table
+Pop66           G4       124        No contingency table
+Pop66           103      124        No contingency table
+Pop66           119      124        No contingency table
+Pop66           121      124        No information
+Pop66           108      B103       No contingency table
+Pop66           G4       B103       No contingency table
+Pop66           103      B103       No contingency table
+Pop66           119      B103       No contingency table
+Pop66           121      B103       No information
+Pop66           124      B103       0.330710     0.002090    33098
+Pop66           108      B108       No contingency table
+Pop66           G4       B108       No contingency table
+Pop66           103      B108       No contingency table
+Pop66           119      B108       No contingency table
+Pop66           121      B108       No contingency table
+Pop66           124      B108       No contingency table
+Pop66           B103     B108       No contingency table
+Pop66           108      B128       No contingency table
+Pop66           G4       B128       No contingency table
+Pop66           103      B128       No contingency table
+Pop66           119      B128       No contingency table
+Pop66           121      B128       No information
+Pop66           124      B128       No information
+Pop66           B103     B128       No information
+Pop66           B108     B128       No contingency table
+Pop67           108      G4         0.398490     0.001620    39780
+Pop67           108      103        1.000000     0.000000    36747
+Pop67           G4       103        0.394840     0.002962    36872
+Pop67           108      119        0.394400     0.003518    29930
+Pop67           G4       119        1.000000     0.000000    29925
+Pop67           103      119        0.297940     0.007427    14234
+Pop67           108      121        1.000000     0.000000    36943
+Pop67           G4       121        1.000000     0.000000    36788
+Pop67           103      121        0.098480     0.003946    16158
+Pop67           119      121        0.295780     0.007293    14277
+Pop67           108      124        1.000000     0.000000    29936
+Pop67           G4       124        0.399760     0.003928    29783
+Pop67           103      124        1.000000     0.000000    13938
+Pop67           119      124        1.000000     0.000000    10458
+Pop67           121      124        1.000000     0.000000    14140
+Pop67           108      B103       0.502100     0.003173    25020
+Pop67           G4       B103       1.000000     0.000000    30114
+Pop67           103      B103       0.197110     0.005617    16638
+Pop67           119      B103       0.165870     0.004246    19411
+Pop67           121      B103       0.167260     0.003809    19535
+Pop67           124      B103       1.000000     0.000000    19553
+Pop67           108      B108       0.497250     0.003467    24602
+Pop67           G4       B108       1.000000     0.000000    33229
+Pop67           103      B108       0.168420     0.004270    19496
+Pop67           119      B108       0.166880     0.004768    19466
+Pop67           121      B108       0.165210     0.004414    19463
+Pop67           124      B108       1.000000     0.000000    19491
+Pop67           B103     B108       0.163280     0.005113    19513
+Pop67           108      B128       No information
+Pop67           G4       B128       No information
+Pop67           103      B128       No information
+Pop67           119      B128       No information
+Pop67           121      B128       No information
+Pop67           124      B128       No information
+Pop67           B103     B128       No information
+Pop67           B108     B128       No information
+Pop68           108      G4         No contingency table
+Pop68           108      103        No contingency table
+Pop68           G4       103        No contingency table
+Pop68           108      119        No contingency table
+Pop68           G4       119        No contingency table
+Pop68           103      119        No contingency table
+Pop68           108      121        No contingency table
+Pop68           G4       121        No contingency table
+Pop68           103      121        No contingency table
+Pop68           119      121        No contingency table
+Pop68           108      124        No contingency table
+Pop68           G4       124        No contingency table
+Pop68           103      124        No contingency table
+Pop68           119      124        No contingency table
+Pop68           121      124        No contingency table
+Pop68           108      B103       No contingency table
+Pop68           G4       B103       No contingency table
+Pop68           103      B103       No contingency table
+Pop68           119      B103       No contingency table
+Pop68           121      B103       1.000000     0.000000    24949
+Pop68           124      B103       No contingency table
+Pop68           108      B108       No contingency table
+Pop68           G4       B108       No contingency table
+Pop68           103      B108       No contingency table
+Pop68           119      B108       No contingency table
+Pop68           121      B108       No contingency table
+Pop68           124      B108       No contingency table
+Pop68           B103     B108       No contingency table
+Pop68           108      B128       No data      
+Pop68           G4       B128       No data      
+Pop68           103      B128       No data      
+Pop68           119      B128       No data      
+Pop68           121      B128       No data      
+Pop68           124      B128       No data      
+Pop68           B103     B128       No data      
+Pop68           B108     B128       No data      
+Pop69           108      G4         0.156230     0.006325    14149
+Pop69           108      103        0.883160     0.004578    16347
+Pop69           G4       103        0.291110     0.003250    25559
+Pop69           108      119        0.262110     0.013384     7994
+Pop69           G4       119        0.602400     0.006483    20009
+Pop69           103      119        1.000000     0.000000    20763
+Pop69           108      121        1.000000     0.000000     3573
+Pop69           G4       121        1.000000     0.000000    13317
+Pop69           103      121        0.750650     0.006530     9268
+Pop69           119      121        0.787320     0.012382     7501
+Pop69           108      124        0.371290     0.016198     5924
+Pop69           G4       124        0.470840     0.008073    16745
+Pop69           103      124        0.796540     0.003987    21909
+Pop69           119      124        0.652880     0.011520    10606
+Pop69           121      124        0.716130     0.017261     5295
+Pop69           108      B103       0.636990     0.021635     3972
+Pop69           G4       B103       0.303100     0.007345    13831
+Pop69           103      B103       0.657210     0.007277    15603
+Pop69           119      B103       0.678470     0.013658     7908
+Pop69           121      B103       0.090810     0.013143     3592
+Pop69           124      B103       0.151760     0.014912     5674
+Pop69           108      B108       0.562530     0.021216     3935
+Pop69           G4       B108       0.612360     0.008707    14160
+Pop69           103      B108       0.264450     0.006391    16137
+Pop69           119      B108       0.766750     0.012647     7618
+Pop69           121      B108       0.511180     0.024611     3377
+Pop69           124      B108       0.795020     0.013409     5768
+Pop69           B103     B108       0.587880     0.024809     3986
+Pop69           108      B128       1.000000     0.000000     3233
+Pop69           G4       B128       0.592750     0.010316    12272
+Pop69           103      B128       1.000000     0.000000    11503
+Pop69           119      B128       0.350860     0.015839     5539
+Pop69           121      B128       1.000000     0.000000     2544
+Pop69           124      B128       0.212570     0.016533     4226
+Pop69           B103     B128       1.000000     0.000000     3246
+Pop69           B108     B128       1.000000     0.000000     2655
+Pop70           108      G4         No contingency table
+Pop70           108      103        No contingency table
+Pop70           G4       103        No contingency table
+Pop70           108      119        No contingency table
+Pop70           G4       119        No contingency table
+Pop70           103      119        No contingency table
+Pop70           108      121        No contingency table
+Pop70           G4       121        No contingency table
+Pop70           103      121        No contingency table
+Pop70           119      121        No contingency table
+Pop70           108      124        No contingency table
+Pop70           G4       124        No contingency table
+Pop70           103      124        No contingency table
+Pop70           119      124        No contingency table
+Pop70           121      124        No contingency table
+Pop70           108      B103       No contingency table
+Pop70           G4       B103       No contingency table
+Pop70           103      B103       No contingency table
+Pop70           119      B103       No contingency table
+Pop70           121      B103       No contingency table
+Pop70           124      B103       No contingency table
+Pop70           108      B108       No contingency table
+Pop70           G4       B108       No contingency table
+Pop70           103      B108       No contingency table
+Pop70           119      B108       No contingency table
+Pop70           121      B108       No contingency table
+Pop70           124      B108       No contingency table
+Pop70           B103     B108       No contingency table
+Pop70           108      B128       No contingency table
+Pop70           G4       B128       No contingency table
+Pop70           103      B128       No contingency table
+Pop70           119      B128       No contingency table
+Pop70           121      B128       No contingency table
+Pop70           124      B128       No contingency table
+Pop70           B103     B128       No contingency table
+Pop70           B108     B128       No contingency table
+Pop71           108      G4         No contingency table
+Pop71           108      103        No contingency table
+Pop71           G4       103        No contingency table
+Pop71           108      119        No contingency table
+Pop71           G4       119        No contingency table
+Pop71           103      119        No contingency table
+Pop71           108      121        0.333490     0.001839    33253
+Pop71           G4       121        No contingency table
+Pop71           103      121        No contingency table
+Pop71           119      121        No contingency table
+Pop71           108      124        0.333930     0.001844    33286
+Pop71           G4       124        No contingency table
+Pop71           103      124        No contingency table
+Pop71           119      124        No contingency table
+Pop71           121      124        0.333170     0.002028    33353
+Pop71           108      B103       No contingency table
+Pop71           G4       B103       No contingency table
+Pop71           103      B103       No contingency table
+Pop71           119      B103       No contingency table
+Pop71           121      B103       No contingency table
+Pop71           124      B103       No contingency table
+Pop71           108      B108       0.336210     0.001935    33575
+Pop71           G4       B108       No contingency table
+Pop71           103      B108       No contingency table
+Pop71           119      B108       No contingency table
+Pop71           121      B108       0.334720     0.002020    33562
+Pop71           124      B108       0.332770     0.002072    33371
+Pop71           B103     B108       No contingency table
+Pop71           108      B128       No information
+Pop71           G4       B128       No contingency table
+Pop71           103      B128       No contingency table
+Pop71           119      B128       No contingency table
+Pop71           121      B128       No information
+Pop71           124      B128       No information
+Pop71           B103     B128       No contingency table
+Pop71           B108     B128       No information
+Pop72           108      G4         1.000000     0.000000    49968
+Pop72           108      103        0.424370     0.001684    42893
+Pop72           G4       103        1.000000     0.000000    16642
+Pop72           108      119        0.427660     0.002903    36235
+Pop72           G4       119        0.340700     0.004600    16895
+Pop72           103      119        0.047340     0.001658    31837
+Pop72           108      121        0.090550     0.002319    33388
+Pop72           G4       121        1.000000     0.000000    16861
+Pop72           103      121        0.091970     0.002117    27731
+Pop72           119      121        0.318700     0.006503    17266
+Pop72           108      124        0.316190     0.002926    40005
+Pop72           G4       124        0.502460     0.003830    22309
+Pop72           103      124        0.097250     0.002101    37906
+Pop72           119      124        0.039050     0.001752    26143
+Pop72           121      124        0.202980     0.004946    20669
+Pop72           108      B103       0.083630     0.002220    33123
+Pop72           G4       B103       1.000000     0.000000    16503
+Pop72           103      B103       0.094320     0.002229    27951
+Pop72           119      B103       0.308430     0.006463    17327
+Pop72           121      B103       0.003640     0.000846    12870
+Pop72           124      B103       0.198800     0.004817    20629
+Pop72           108      B108       0.055850     0.001758    40951
+Pop72           G4       B108       1.000000     0.000000    22320
+Pop72           103      B108       0.574230     0.003003    33457
+Pop72           119      B108       0.658940     0.004504    22386
+Pop72           121      B108       0.029660     0.002307    18384
+Pop72           124      B108       0.486780     0.004865    26822
+Pop72           B103     B108       0.029220     0.002149    18561
+Pop72           108      B128       0.099390     0.002169    36424
+Pop72           G4       B128       1.000000     0.000000    19936
+Pop72           103      B128       No contingency table
+Pop72           119      B128       1.000000     0.000000    20072
+Pop72           121      B128       0.096230     0.003760    16136
+Pop72           124      B128       1.000000     0.000000    36982
+Pop72           B103     B128       0.095910     0.003809    15985
+Pop72           B108     B128       0.096270     0.003510    16102
+Pop73           108      G4         1.000000     0.000000    34463
+Pop73           108      103        0.307820     0.005555    10084
+Pop73           G4       103        1.000000     0.000000    44362
+Pop73           108      119        0.058240     0.006673     7173
+Pop73           G4       119        1.000000     0.000000    29652
+Pop73           103      119        0.503540     0.007178    12632
+Pop73           108      121        0.510850     0.008925     7497
+Pop73           G4       121        1.000000     0.000000    38930
+Pop73           103      121        0.193130     0.003837     9807
+Pop73           119      121        0.507150     0.005847    12613
+Pop73           108      124        1.000000     0.000000    12212
+Pop73           G4       124        1.000000     0.000000    36302
+Pop73           103      124        0.599880     0.004645    20245
+Pop73           119      124        0.829810     0.008266    10509
+Pop73           121      124        0.863210     0.004050    15067
+Pop73           108      B103       0.034840     0.005665     5924
+Pop73           G4       B103       1.000000     0.000000    32637
+Pop73           103      B103       0.405360     0.007137    10022
+Pop73           119      B103       0.241860     0.014619     5994
+Pop73           121      B103       0.669670     0.010718     7310
+Pop73           124      B103       0.394370     0.010344    10997
+Pop73           108      B108       0.014430     0.002539     7232
+Pop73           G4       B108       1.000000     0.000000    32349
+Pop73           103      B108       0.319570     0.005273    10868
+Pop73           119      B108       0.125210     0.008793     7849
+Pop73           121      B108       0.570060     0.007939     8522
+Pop73           124      B108       0.474380     0.009710    11172
+Pop73           B103     B108       0.012210     0.002597     7240
+Pop73           108      B128       0.038570     0.005362     6052
+Pop73           G4       B128       1.000000     0.000000    33127
+Pop73           103      B128       0.393240     0.006504     9891
+Pop73           119      B128       0.060520     0.006176     6964
+Pop73           121      B128       0.144370     0.007252     7609
+Pop73           124      B128       1.000000     0.000000    10913
+Pop73           B103     B128       0.125150     0.013326     5163
+Pop73           B108     B128       0.047330     0.005704     6532
+Pop74           108      G4         No contingency table
+Pop74           108      103        No contingency table
+Pop74           G4       103        No contingency table
+Pop74           108      119        No contingency table
+Pop74           G4       119        No contingency table
+Pop74           103      119        No contingency table
+Pop74           108      121        No contingency table
+Pop74           G4       121        No contingency table
+Pop74           103      121        No contingency table
+Pop74           119      121        No contingency table
+Pop74           108      124        No contingency table
+Pop74           G4       124        No contingency table
+Pop74           103      124        No contingency table
+Pop74           119      124        No contingency table
+Pop74           121      124        No contingency table
+Pop74           108      B103       No contingency table
+Pop74           G4       B103       No contingency table
+Pop74           103      B103       No contingency table
+Pop74           119      B103       No contingency table
+Pop74           121      B103       No contingency table
+Pop74           124      B103       No contingency table
+Pop74           108      B108       No contingency table
+Pop74           G4       B108       No contingency table
+Pop74           103      B108       No contingency table
+Pop74           119      B108       No contingency table
+Pop74           121      B108       No contingency table
+Pop74           124      B108       No contingency table
+Pop74           B103     B108       No contingency table
+Pop74           108      B128       No contingency table
+Pop74           G4       B128       No contingency table
+Pop74           103      B128       No contingency table
+Pop74           119      B128       No contingency table
+Pop74           121      B128       No contingency table
+Pop74           124      B128       No contingency table
+Pop74           B103     B128       No contingency table
+Pop74           B108     B128       No contingency table
+Pop75           108      G4         1.000000     0.000000    33174
+Pop75           108      103        No information
+Pop75           G4       103        No information
+Pop75           108      119        1.000000     0.000000    33079
+Pop75           G4       119        0.335310     0.002110    33572
+Pop75           103      119        No information
+Pop75           108      121        1.000000     0.000000    33127
+Pop75           G4       121        0.333140     0.002057    33450
+Pop75           103      121        No information
+Pop75           119      121        0.334570     0.002023    33136
+Pop75           108      124        No information
+Pop75           G4       124        No information
+Pop75           103      124        No information
+Pop75           119      124        No information
+Pop75           121      124        No information
+Pop75           108      B103       No information
+Pop75           G4       B103       No information
+Pop75           103      B103       No information
+Pop75           119      B103       No information
+Pop75           121      B103       No information
+Pop75           124      B103       No information
+Pop75           108      B108       No information
+Pop75           G4       B108       No information
+Pop75           103      B108       No information
+Pop75           119      B108       No information
+Pop75           121      B108       No information
+Pop75           124      B108       No information
+Pop75           B103     B108       No information
+Pop75           108      B128       No information
+Pop75           G4       B128       No information
+Pop75           103      B128       No information
+Pop75           119      B128       No information
+Pop75           121      B128       No information
+Pop75           124      B128       No information
+Pop75           B103     B128       No information
+Pop75           B108     B128       No information
+Pop76           108      G4         0.815780     0.004066    19645
+Pop76           108      103        0.318990     0.008944    15721
+Pop76           G4       103        0.477310     0.012094    10231
+Pop76           108      119        0.911260     0.004351    15398
+Pop76           G4       119        0.831360     0.006377    12997
+Pop76           103      119        0.556210     0.020730     6209
+Pop76           108      121        0.662970     0.008939    15299
+Pop76           G4       121        0.130960     0.007056    12360
+Pop76           103      121        0.876640     0.010595     6092
+Pop76           119      121        0.969150     0.003845     8512
+Pop76           108      124        0.186080     0.005412    30011
+Pop76           G4       124        0.030580     0.001840    30581
+Pop76           103      124        0.030290     0.003521    17612
+Pop76           119      124        0.916180     0.004444    17304
+Pop76           121      124        0.609400     0.010094    16658
+Pop76           108      B103       0.744960     0.010022    11946
+Pop76           G4       B103       0.746560     0.013003     9109
+Pop76           103      B103       0.974520     0.005508     3814
+Pop76           119      B103       0.522500     0.022216     3808
+Pop76           121      B103       0.798930     0.013984     5482
+Pop76           124      B103       1.000000     0.000000     9502
+Pop76           108      B108       1.000000     0.000000    12660
+Pop76           G4       B108       0.308610     0.012315     9595
+Pop76           103      B108       0.905700     0.011637     4235
+Pop76           119      B108       0.565270     0.024468     3842
+Pop76           121      B108       1.000000     0.000000     5576
+Pop76           124      B108       0.849400     0.008146     9721
+Pop76           B103     B108       1.000000     0.000000     2126
+Pop76           108      B128       No data      
+Pop76           G4       B128       No data      
+Pop76           103      B128       No data      
+Pop76           119      B128       No data      
+Pop76           121      B128       No data      
+Pop76           124      B128       No data      
+Pop76           B103     B128       No data      
+Pop76           B108     B128       No data      
+Pop77           108      G4         No contingency table
+Pop77           108      103        No contingency table
+Pop77           G4       103        No contingency table
+Pop77           108      119        No contingency table
+Pop77           G4       119        No contingency table
+Pop77           103      119        No contingency table
+Pop77           108      121        No contingency table
+Pop77           G4       121        No contingency table
+Pop77           103      121        No contingency table
+Pop77           119      121        1.000000     0.000000     6227
+Pop77           108      124        No contingency table
+Pop77           G4       124        No contingency table
+Pop77           103      124        No contingency table
+Pop77           119      124        0.188910     0.006439    15866
+Pop77           121      124        1.000000     0.000000    15850
+Pop77           108      B103       No data      
+Pop77           G4       B103       No data      
+Pop77           103      B103       No data      
+Pop77           119      B103       No data      
+Pop77           121      B103       No data      
+Pop77           124      B103       No data      
+Pop77           108      B108       No contingency table
+Pop77           G4       B108       No contingency table
+Pop77           103      B108       No data      
+Pop77           119      B108       No information
+Pop77           121      B108       No information
+Pop77           124      B108       No information
+Pop77           B103     B108       No data      
+Pop77           108      B128       No data      
+Pop77           G4       B128       No data      
+Pop77           103      B128       No data      
+Pop77           119      B128       No data      
+Pop77           121      B128       No data      
+Pop77           124      B128       No data      
+Pop77           B103     B128       No data      
+Pop77           B108     B128       No data      
+Pop78           108      G4         No contingency table
+Pop78           108      103        No contingency table
+Pop78           G4       103        No contingency table
+Pop78           108      119        No contingency table
+Pop78           G4       119        No contingency table
+Pop78           103      119        No contingency table
+Pop78           108      121        No contingency table
+Pop78           G4       121        No contingency table
+Pop78           103      121        No contingency table
+Pop78           119      121        No contingency table
+Pop78           108      124        No contingency table
+Pop78           G4       124        No contingency table
+Pop78           103      124        No contingency table
+Pop78           119      124        No contingency table
+Pop78           121      124        No contingency table
+Pop78           108      B103       No contingency table
+Pop78           G4       B103       No contingency table
+Pop78           103      B103       No contingency table
+Pop78           119      B103       No contingency table
+Pop78           121      B103       No contingency table
+Pop78           124      B103       No contingency table
+Pop78           108      B108       No contingency table
+Pop78           G4       B108       No contingency table
+Pop78           103      B108       No contingency table
+Pop78           119      B108       No contingency table
+Pop78           121      B108       No contingency table
+Pop78           124      B108       No contingency table
+Pop78           B103     B108       No contingency table
+Pop78           108      B128       No contingency table
+Pop78           G4       B128       No contingency table
+Pop78           103      B128       No contingency table
+Pop78           119      B128       No contingency table
+Pop78           121      B128       No contingency table
+Pop78           124      B128       No contingency table
+Pop78           B103     B128       No contingency table
+Pop78           B108     B128       No contingency table
+Pop79           108      G4         No contingency table
+Pop79           108      103        No contingency table
+Pop79           G4       103        No contingency table
+Pop79           108      119        No contingency table
+Pop79           G4       119        No contingency table
+Pop79           103      119        No contingency table
+Pop79           108      121        No information
+Pop79           G4       121        No contingency table
+Pop79           103      121        No contingency table
+Pop79           119      121        No contingency table
+Pop79           108      124        No contingency table
+Pop79           G4       124        No contingency table
+Pop79           103      124        No contingency table
+Pop79           119      124        No contingency table
+Pop79           121      124        No contingency table
+Pop79           108      B103       No information
+Pop79           G4       B103       No contingency table
+Pop79           103      B103       No contingency table
+Pop79           119      B103       No contingency table
+Pop79           121      B103       No information
+Pop79           124      B103       No contingency table
+Pop79           108      B108       No information
+Pop79           G4       B108       No contingency table
+Pop79           103      B108       No contingency table
+Pop79           119      B108       No contingency table
+Pop79           121      B108       No information
+Pop79           124      B108       No contingency table
+Pop79           B103     B108       No information
+Pop79           108      B128       No information
+Pop79           G4       B128       No contingency table
+Pop79           103      B128       No contingency table
+Pop79           119      B128       No contingency table
+Pop79           121      B128       No information
+Pop79           124      B128       No contingency table
+Pop79           B103     B128       No information
+Pop79           B108     B128       No information
+Pop80           108      G4         0.185050     0.002852    44062
+Pop80           108      103        No contingency table
+Pop80           G4       103        No contingency table
+Pop80           108      119        0.610570     0.008373    13619
+Pop80           G4       119        0.847460     0.003300    31720
+Pop80           103      119        No contingency table
+Pop80           108      121        0.952450     0.003720    11035
+Pop80           G4       121        1.000000     0.000000    29328
+Pop80           103      121        No contingency table
+Pop80           119      121        0.527170     0.020529     4351
+Pop80           108      124        0.733080     0.007999    13122
+Pop80           G4       124        0.611480     0.004973    32625
+Pop80           103      124        No contingency table
+Pop80           119      124        0.141390     0.013811     6162
+Pop80           121      124        0.521050     0.019414     4252
+Pop80           108      B103       0.577290     0.008461    13168
+Pop80           G4       B103       0.617200     0.004958    30893
+Pop80           103      B103       No contingency table
+Pop80           119      B103       0.485380     0.015744     5710
+Pop80           121      B103       0.247610     0.019193     3609
+Pop80           124      B103       0.517650     0.017236     5420
+Pop80           108      B108       0.390370     0.008596    11534
+Pop80           G4       B108       0.448440     0.005533    28789
+Pop80           103      B108       No contingency table
+Pop80           119      B108       0.383000     0.017598     4547
+Pop80           121      B108       0.237030     0.026304     2873
+Pop80           124      B108       0.412350     0.018569     4416
+Pop80           B103     B108       0.207570     0.020233     3778
+Pop80           108      B128       0.061200     0.004679    10952
+Pop80           G4       B128       0.091450     0.003617    29253
+Pop80           103      B128       No contingency table
+Pop80           119      B128       0.467550     0.020650     4239
+Pop80           121      B128       0.279940     0.023368     2794
+Pop80           124      B128       0.568930     0.021972     4208
+Pop80           B103     B128       0.266790     0.020230     3616
+Pop80           B108     B128       0.181100     0.022154     2869
+Pop81           108      G4         0.461090     0.004638    26907
+Pop81           108      103        1.000000     0.000000    11368
+Pop81           G4       103        0.601690     0.003355    31009
+Pop81           108      119        No information
+Pop81           G4       119        No information
+Pop81           103      119        No information
+Pop81           108      121        No information
+Pop81           G4       121        No information
+Pop81           103      121        No information
+Pop81           119      121        No information
+Pop81           108      124        1.000000     0.000000    16433
+Pop81           G4       124        0.499010     0.003846    24773
+Pop81           103      124        1.000000     0.000000    24792
+Pop81           119      124        No information
+Pop81           121      124        No information
+Pop81           108      B103       1.000000     0.000000     6246
+Pop81           G4       B103       1.000000     0.000000    26792
+Pop81           103      B103       1.000000     0.000000    11110
+Pop81           119      B103       No information
+Pop81           121      B103       No information
+Pop81           124      B103       No information
+Pop81           108      B108       No information
+Pop81           G4       B108       No information
+Pop81           103      B108       No information
+Pop81           119      B108       No information
+Pop81           121      B108       No information
+Pop81           124      B108       No information
+Pop81           B103     B108       No information
+Pop81           108      B128       No information
+Pop81           G4       B128       No information
+Pop81           103      B128       No information
+Pop81           119      B128       No information
+Pop81           121      B128       No information
+Pop81           124      B128       No information
+Pop81           B103     B128       No information
+Pop81           B108     B128       No information
+Pop82           108      G4         No contingency table
+Pop82           108      103        No contingency table
+Pop82           G4       103        No contingency table
+Pop82           108      119        No contingency table
+Pop82           G4       119        No contingency table
+Pop82           103      119        No contingency table
+Pop82           108      121        No contingency table
+Pop82           G4       121        No contingency table
+Pop82           103      121        No contingency table
+Pop82           119      121        No contingency table
+Pop82           108      124        No contingency table
+Pop82           G4       124        No contingency table
+Pop82           103      124        No contingency table
+Pop82           119      124        No contingency table
+Pop82           121      124        No contingency table
+Pop82           108      B103       No contingency table
+Pop82           G4       B103       No contingency table
+Pop82           103      B103       No contingency table
+Pop82           119      B103       No contingency table
+Pop82           121      B103       No contingency table
+Pop82           124      B103       No contingency table
+Pop82           108      B108       No contingency table
+Pop82           G4       B108       No contingency table
+Pop82           103      B108       No contingency table
+Pop82           119      B108       No contingency table
+Pop82           121      B108       No contingency table
+Pop82           124      B108       No contingency table
+Pop82           B103     B108       No contingency table
+Pop82           108      B128       No contingency table
+Pop82           G4       B128       No contingency table
+Pop82           103      B128       No contingency table
+Pop82           119      B128       No contingency table
+Pop82           121      B128       No contingency table
+Pop82           124      B128       No contingency table
+Pop82           B103     B128       No contingency table
+Pop82           B108     B128       No contingency table
+
+P-value for each locus pair across all populations
+(Fisher's method)
+-----------------------------------------------------
+Locus pair                    Chi2      df   P-Value
+--------------------          --------  ---  --------
+108           & G4            69.888693 84   0.865253
+108           & 103           70.595665 72   0.524764
+G4            & 103           48.372506 66   0.949253
+108           & 119           108.82422892   0.111171
+G4            & 119           85.651556 84   0.429371
+103           & 119           67.458556 70   0.563911
+108           & 121           109.58617898   0.199268
+G4            & 121           61.496500 82   0.955892
+103           & 121           71.345367 72   0.499635
+119           & 121           140.287615100  0.004924
+108           & 124           >137.82400792   <0.001411
+G4            & 124           >107.96255378   <0.013968
+103           & 124           74.816152 72   0.387017
+119           & 124           >149.49394092   <0.000142
+121           & 124           >177.71365794   <4.13e-07
+108           & B103          139.66432586   0.000226
+G4            & B103          53.973723 70   0.921725
+103           & B103          68.018889 62   0.279814
+119           & B103          104.05592286   0.090002
+121           & B103          >153.12359484   <6.17e-06
+124           & B103          88.353827 88   0.469353
+108           & B108          93.612839 72   0.044438
+G4            & B108          69.545333 62   0.238469
+103           & B108          48.928467 48   0.435591
+119           & B108          79.243178 70   0.210403
+121           & B108          76.313776 74   0.404027
+124           & B108          >144.65807068   <1.83e-07
+B103          & B108          >161.10542968   <1.59e-09
+108           & B128          58.645807 60   0.525332
+G4            & B128          35.809837 46   0.860355
+103           & B128          30.527437 36   0.726135
+119           & B128          >90.23609962   <0.011105
+121           & B128          54.244739 64   0.802524
+124           & B128          78.781974 62   0.073826
+B103          & B128          >132.53432956   <3.79e-08
+B108          & B128          78.333886 48   0.003709
+
+Normal ending.
