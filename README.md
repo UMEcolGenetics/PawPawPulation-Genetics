@@ -16,6 +16,8 @@ Below are a list of methods with links to each wiki. These analyses were chosen 
 
 ### Analysis of MOlecular VAriance (AMOVA)
 
+AMOVA is a popular method to use for calculating F-statistics for the presence of hierarchical population structure when your dataset has three or more populations[^fn2]. An AMOVA will compare molecular variance across the different strata (i.e., populations in this case) and look to see if the population means differ from one another.
+
 ### Bottleneck
 
 ### Barrier
@@ -28,12 +30,16 @@ Below are a list of methods with links to each wiki. These analyses were chosen 
 
 ### Linkage Disequalibrium (LD)
 
-Linkage disequilibrium (LD), sometimes referred to as gametic phase disequilibrium, occurs when alleles of two or more loci (or genes) show nonrandom association in a population[^fn2]. When two loci are considered linked, or their inheritance is correlated, one may influence the evolutionary trajectory of the other locus/loci. This may occur either from their physical proximity on the chromosome or from a functional association.
+Linkage disequilibrium (LD), sometimes referred to as gametic phase disequilibrium, occurs when alleles of two or more loci (or genes) show nonrandom association in a population[^fn3]. When two loci are considered linked, or their inheritance is correlated, one may influence the evolutionary trajectory of the other locus/loci. This may occur either from their physical proximity on the chromosome or from a functional association.
 
 
 ### Principal Coordinates Analysis (PCoA)
 
 ### Structure 
+
+Population structure (or genetic structure) refers to differences in allele frequencies between populations due to non-random mating between individuals. Non-random mating may be caused by inbreeding, assortative mating, and separation due to distance and geographic barriers. In these circumstances, genetic and phenotypic differences can accumulate between populations. Another consequence of population structure is reduced heterozygosity, as alleles have a higher chance to reach fixation within smaller subpopulations.
+
+Studying population structure is important for understanding patterns of gene flow and inferring the demographic histories of populations. Once population structure for a species is known, it is possible to deduce the origins of unknown individuals and infer the presence of migration and admixture between subpopulations.
 
 ### Tukeys
 
@@ -47,4 +53,5 @@ If you spot any issues please raise an issue in the GitHub repository of the ana
 
 
 [^fn1]: Wyatt, G. E., Hamrick, J. L., & Trapnell, D. W. (2021). The role of anthropogenic dispersal in shaping the distribution and genetic composition of a widespread North American tree species. Ecology and evolution, 11(16), 11515–11532. https://doi.org/10.1002/ece3.7944
-[^fn2]: Slatkin M. Linkage disequilibrium--understanding the evolutionary past and mapping the medical future. Nat Rev Genet. 2008 Jun;9(6):477-85. doi: 10.1038/nrg2361. PMID: 18427557; PMCID: PMC5124487.
+[^fn2]: Excoffier L, Smouse PE, Quattro JM. Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data. Genetics. 1992 Jun;131(2):479-91. doi: 10.1093/genetics/131.2.479. PMID: 1644282; PMCID: PMC1205020.
+[^fn3]: Slatkin M. Linkage disequilibrium--understanding the evolutionary past and mapping the medical future. Nat Rev Genet. 2008 Jun;9(6):477-85. doi: 10.1038/nrg2361. PMID: 18427557; PMCID: PMC5124487.
