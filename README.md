@@ -50,7 +50,7 @@ Studying population structure is important for understanding patterns of gene fl
 ## Software/Packages/Tools
 
 # Need help?
-We want to make it super-easy for Snowplow users and contributors to talk to us and connect with each other, to share ideas, solve problems and help make PawPawPulaion an awesome resource. Here are the main channels we're running currently, we'd love to hear from you on one of them:
+We want to make it super-easy for PawPawPulation users and contributors to talk to us and connect with each other, to share ideas, solve problems and help make PawPawPulation an awesome resource. Here are the main channels we're running currently, we'd love to hear from you on one of them:
 
 # GitHub
 If you spot any issues please raise an issue in the GitHub repository of the analysis in question. Furthermore if you have run an analysis not detailed here or you have improved an existing workflow, with the pawpaw data, please open a pull request and we'll be glad to consider your analysis for integration in the project!
