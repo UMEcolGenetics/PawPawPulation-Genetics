@@ -57,8 +57,8 @@ If you spot any issues please raise an issue in the GitHub repository of the ana
 
 
 [^fn1]: Wyatt, G. E., Hamrick, J. L., & Trapnell, D. W. (2021). The role of anthropogenic dispersal in shaping the distribution and genetic composition of a widespread North American tree species. Ecology and evolution, 11(16), 11515–11532. https://doi.org/10.1002/ece3.7944
-[^fn2]: Excoffier L, Smouse PE, Quattro JM. Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data. Genetics. 1992 Jun;131(2):479-91. doi: 10.1093/genetics/131.2.479. PMID: 1644282; PMCID: PMC1205020.
-[^fn3]: Edwards, A. W. F. (2008). G. H. Hardy (1908) and hardy–weinberg equilibrium. Genetics, 179, 1143–1150. doi: 10.1534/genetics.104.92940
-[^fn4]: Slatkin M. (2008). Linkage disequilibrium--understanding the evolutionary past and mapping the medical future. Nat Rev Genet. 9(6):477-85. doi: 10.1038/nrg2361. PMID: 18427557; PMCID: PMC5124487.
+[^fn2]: Excoffier L, Smouse PE, Quattro JM. Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data. Genetics. 1992 Jun;131(2):479-91. https://10.1093/genetics/131.2.479. PMID: 1644282; PMCID: PMC1205020.
+[^fn3]: Edwards, A. W. F. (2008). G. H. Hardy (1908) and hardy–weinberg equilibrium. Genetics, 179, 1143–1150. https://10.1534/genetics.104.92940
+[^fn4]: Slatkin M. (2008). Linkage disequilibrium--understanding the evolutionary past and mapping the medical future. Nat Rev Genet. 9(6):477-85. https://10.1038/nrg2361. PMID: 18427557; PMCID: PMC5124487.
 
 
