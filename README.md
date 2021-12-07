@@ -24,13 +24,17 @@ AMOVA is a popular method to use for calculating F-statistics for the presence o
 
 ### Fixation Index (F<sub>ST</sub>)
 
+### Hardy-Weinberg Equilibrium (HWE)
+
+Hardy-Weinberg Equilibrium is fundamental to populations genetics, and states that in the absence of influence by outside forces, genotype frequencies in a population will remain unchanged between generations[^fn3]. This principle has become an instrumental part of population genetics and is used to identify genetic structure in populations and instances of non-random mating.
+
 ### Identity by Descent (IBD)
 
 ### Linear Discriminant Analysis (LDA) 
 
 ### Linkage Disequalibrium (LD)
 
-Linkage disequilibrium (LD), sometimes referred to as gametic phase disequilibrium, occurs when alleles of two or more loci (or genes) show nonrandom association in a population[^fn3]. When two loci are considered linked, or their inheritance is correlated, one may influence the evolutionary trajectory of the other locus/loci. This may occur either from their physical proximity on the chromosome or from a functional association.
+Linkage disequilibrium (LD), sometimes referred to as gametic phase disequilibrium, occurs when alleles of two or more loci (or genes) show nonrandom association in a population[^fn4]. When two loci are considered linked, or their inheritance is correlated, one may influence the evolutionary trajectory of the other locus/loci. This may occur either from their physical proximity on the chromosome or from a functional association.
 
 
 ### Principal Coordinates Analysis (PCoA)
@@ -54,4 +58,7 @@ If you spot any issues please raise an issue in the GitHub repository of the ana
 
 [^fn1]: Wyatt, G. E., Hamrick, J. L., & Trapnell, D. W. (2021). The role of anthropogenic dispersal in shaping the distribution and genetic composition of a widespread North American tree species. Ecology and evolution, 11(16), 11515–11532. https://doi.org/10.1002/ece3.7944
 [^fn2]: Excoffier L, Smouse PE, Quattro JM. Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data. Genetics. 1992 Jun;131(2):479-91. doi: 10.1093/genetics/131.2.479. PMID: 1644282; PMCID: PMC1205020.
-[^fn3]: Slatkin M. Linkage disequilibrium--understanding the evolutionary past and mapping the medical future. Nat Rev Genet. 2008 Jun;9(6):477-85. doi: 10.1038/nrg2361. PMID: 18427557; PMCID: PMC5124487.
+[^fn3]: Edwards, A. W. F. (2008). G. H. Hardy (1908) and hardy–weinberg equilibrium. Genetics, 179, 1143–1150. doi: 10.1534/genetics.104.92940
+[^fn4]: Slatkin M. (2008). Linkage disequilibrium--understanding the evolutionary past and mapping the medical future. Nat Rev Genet. 9(6):477-85. doi: 10.1038/nrg2361. PMID: 18427557; PMCID: PMC5124487.
+
+
