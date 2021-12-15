@@ -8,6 +8,8 @@ This repository contains general examples of commonly used ecological genetic me
 
 A microsatellite dataset considering influences of dispersal of the North American native *Asimina triloba* is used in each method demonstration[^fn1].
 
+All workflows can be found under the [PawPawPulation Wiki](https://github.com/UMEcolGenetics/PawPawPulation/wiki).
+
 This repo was built out by graduate students/candidates at the University of Memphis as part of their final Ecological Genetics course (BIOL 8752/7752) during Fall 2021. 
 
 ## Concepts/Analyses
