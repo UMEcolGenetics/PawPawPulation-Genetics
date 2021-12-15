@@ -1,5 +1,5 @@
 Bottleneck  ---  Version 1.2.02  (16.II.99)
-Copyright © 1997-1999, INRA, Laboratoire de Modélisation et Biologie Evolutive, All rights reserved.
+Copyright Â© 1997-1999, INRA, Laboratoire de ModÃ©lisation et Biologie Evolutive, All rights reserved.
 Parameters for T.P.M.: Variance=12.00  Probability=95.00%
 
 
