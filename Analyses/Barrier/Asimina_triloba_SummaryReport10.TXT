@@ -1,0 +1,109 @@
+**** Creating single monmonier layer "Asimina_triloba_Neis_dist10" ****
+**** Parameters :
+**** barrier count : 10
+
+**** Loading distance matrix n° 1
+
+**** Constructing barrier n° 1 -- layer "Asimina_triloba_Neis_dist10"  -- matrix n° 1
+ -- Beginning of barrier --
+->	segment : {   6,   3} distance : 1.230
+# Constructing barrier : first direction
+->	segment : {  10,   6} distance : 0.904
+->	segment : {  12,   6} distance : 0.821
+->	segment : {   7,   6} distance : 0.545
+->	segment : {   8,   6} distance : 0.884
+->	segment : {   6,   5} distance : 0.974
+# Reached end of barrier : stop
+# Constructing barrier : opposite direction
+# Reached end of barrier : stop
+ -- End of barrier --
+
+**** Constructing barrier n° 2 -- layer "Asimina_triloba_Neis_dist10"  -- matrix n° 1
+ -- Beginning of barrier --
+->	segment : {   2,   1} distance : 0.896
+# Constructing barrier : first direction
+# Reached end of barrier : stop
+# Constructing barrier : opposite direction
+# Reached end of barrier : stop
+ -- End of barrier --
+
+**** Constructing barrier n° 3 -- layer "Asimina_triloba_Neis_dist10"  -- matrix n° 1
+ -- Beginning of barrier --
+->	segment : {   9,   4} distance : 0.866
+# Constructing barrier : first direction
+->	segment : {  15,   9} distance : 0.778
+->	segment : {  16,  15} distance : 0.552
+# Reached end of barrier : stop
+# Constructing barrier : opposite direction
+# Reached end of barrier : stop
+ -- End of barrier --
+
+**** Constructing barrier n° 4 -- layer "Asimina_triloba_Neis_dist10"  -- matrix n° 1
+ -- Beginning of barrier --
+->	segment : {   3,   1} distance : 0.778
+# Constructing barrier : first direction
+# Reached end of barrier : stop
+# Constructing barrier : opposite direction
+# Reached end of barrier : stop
+ -- End of barrier --
+
+**** Constructing barrier n° 5 -- layer "Asimina_triloba_Neis_dist10"  -- matrix n° 1
+ -- Beginning of barrier --
+->	segment : {  13,  12} distance : 0.693
+# Constructing barrier : first direction
+->	segment : {  14,  13} distance : 0.546
+# Reached end of barrier : stop
+# Constructing barrier : opposite direction
+<-	segment : {  13,   8} distance : 0.248
+# Reached end of barrier : stop
+ -- End of barrier --
+
+**** Constructing barrier n° 6 -- layer "Asimina_triloba_Neis_dist10"  -- matrix n° 1
+ -- Beginning of barrier --
+->	segment : {  15,   4} distance : 0.692
+# Constructing barrier : first direction
+# Reached end of barrier : stop
+# Constructing barrier : opposite direction
+# Reached end of barrier : stop
+ -- End of barrier --
+
+**** Constructing barrier n° 7 -- layer "Asimina_triloba_Neis_dist10"  -- matrix n° 1
+ -- Beginning of barrier --
+->	segment : {  12,  10} distance : 0.579
+# Constructing barrier : first direction
+->	segment : {  14,  10} distance : 0.539
+->	segment : {  14,  11} distance : 0.569
+# Reached end of barrier : stop
+# Constructing barrier : opposite direction
+# Reached end of barrier : stop
+ -- End of barrier --
+
+**** Constructing barrier n° 8 -- layer "Asimina_triloba_Neis_dist10"  -- matrix n° 1
+ -- Beginning of barrier --
+->	segment : {  14,  12} distance : 0.491
+# Constructing barrier : first direction
+# Reached end of barrier : stop
+# Constructing barrier : opposite direction
+# Reached end of barrier : stop
+ -- End of barrier --
+
+**** Constructing barrier n° 9 -- layer "Asimina_triloba_Neis_dist10"  -- matrix n° 1
+ -- Beginning of barrier --
+->	segment : {  19,  16} distance : 0.418
+# Constructing barrier : first direction
+->	segment : {  20,  19} distance : 0.282
+# Reached end of barrier : stop
+# Constructing barrier : opposite direction
+<-	segment : {  17,  16} distance : 0.134
+<-	segment : {  17,  11} distance : 0.310
+# Reached end of barrier : stop
+ -- End of barrier --
+
+**** Constructing barrier n° 10 -- layer "Asimina_triloba_Neis_dist10"  -- matrix n° 1
+ -- Beginning of barrier --
+->	segment : {  10,   3} distance : 0.363
+# Constructing barrier : first direction
+# Reached end of barrier : stop
+# Constructing barrier : opposite direction
+# Reached end of barrier : stop
+ -- End of barrier --
