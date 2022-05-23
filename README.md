@@ -30,7 +30,7 @@ AMOVA is a popular method to use for calculating F-statistics for the presence o
 
 Hardy-Weinberg Equilibrium is fundamental to populations genetics, and states that in the absence of influence by outside forces, genotype frequencies in a population will remain unchanged between generations[^fn3]. This principle has become an instrumental part of population genetics and is used to identify genetic structure in populations and instances of non-random mating.
 
-### Identity by Descent (IBD)
+### Isolation by Distance (IBD)
 
 ### Linear Discriminant Analysis (LDA) 
 
@@ -47,7 +47,7 @@ Population structure (or genetic structure) refers to differences in allele freq
 
 Studying population structure is important for understanding patterns of gene flow and inferring the demographic histories of populations. Once population structure for a species is known, it is possible to deduce the origins of unknown individuals and infer the presence of migration and admixture between subpopulations.
 
-### Tukeys
+### Tukeys HSD
 
 ## Software/Packages/Tools
 
