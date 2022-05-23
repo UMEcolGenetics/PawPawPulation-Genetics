@@ -30,9 +30,7 @@ AMOVA is a popular method to use for calculating F-statistics for the presence o
 
 Hardy-Weinberg Equilibrium is fundamental to populations genetics, and states that in the absence of influence by outside forces, genotype frequencies in a population will remain unchanged between generations[^fn3]. This principle has become an instrumental part of population genetics and is used to identify genetic structure in populations and instances of non-random mating.
 
-### Isolation by Distance (IBD)
-
-### Linear Discriminant Analysis (LDA) 
+### Isolation by Distance (IBD) 
 
 ### Linkage Disequalibrium (LD)
 
