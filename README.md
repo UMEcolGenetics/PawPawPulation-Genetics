@@ -45,7 +45,7 @@ Population structure (or genetic structure) refers to differences in allele freq
 
 Studying population structure is important for understanding patterns of gene flow and inferring the demographic histories of populations. Once population structure for a species is known, it is possible to deduce the origins of unknown individuals and infer the presence of migration and admixture between subpopulations.
 
-### Tukeys HSD
+### Two-Way ANOVA and Tukeys HSD
 
 ## Software/Packages/Tools
 
