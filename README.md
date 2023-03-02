@@ -1,26 +1,26 @@
-# PawPawPulation
+# PawPawPulation Genetics
 
-![Gesturing at PawPAw](https://www.niagaranow.com/images/news/Paw_Paws.jpg)
+![Image PawPAw](https://en.wikipedia.org/wiki/Asimina_triloba#/media/File:Asimina_triloba3.jpg)
 
 ## Introduction
 
-This repository contains general examples of commonly used ecological genetic methods, it is a meta-methods-review repository of sorts. Workflows and softwares commonly used in ecological genetics research are demonstrated here. The purpose in designing this directory was to establish a one-stop-shop for anyone looking to familiarize themselves with ecological genetic methods and for those considering what analyses to use in their research.
+This repository contains an overview of select softwares and tutorials commonly used in population genetics. The purpose in designing this directory was to establish a helpful resource for those who are relatively new to the field, those who are looking to familiarize themselves with population genetic methods, or for those considering what analyses to use in their research. This repo was built out by graduate students at the University of Memphis as part of their final project in an Ecological Genetics course (BIOL 8752/7752) during Fall 2021. We welcome comments and suggestions!
 
-A microsatellite dataset considering influences of dispersal of the North American native *Asimina triloba* is used in each method demonstration[^fn1].
+A microsatellite dataset studying the influence of dispersal of the North American native *Asimina triloba* is used in each method demonstration[^fn1].
 
 All workflows can be found under the [PawPawPulation Wiki](https://github.com/UMEcolGenetics/PawPawPulation/wiki).
 
-This repo was built out by graduate students/candidates at the University of Memphis as part of their final Ecological Genetics course (BIOL 8752/7752) during Fall 2021. 
+## Analyses
 
-## Concepts/Analyses
-
-Below are a list of methods with links to each wiki. These analyses were chosen based on some of the most common methods used in 
+Below are a list of methods, approaches, or softwares with links to each wiki. These analyses are some of the most commonly used methods used in population genetics recognizing there are numerous softwares that we did not include here.
 
 ### Analysis of MOlecular VAriance (AMOVA)
 
-AMOVA is a popular method to use for calculating F-statistics for the presence of hierarchical population structure when your dataset has three or more populations[^fn2]. An AMOVA will compare molecular variance across the different strata (i.e., populations in this case) and look to see if the population means differ from one another.
+AMOVA is a popular method for calculating F-statistics to assess the presence of hierarchical population structure[^fn2]. An AMOVA will compare molecular variance across the different groups (i.e., populations in this case) by calculating the within and between-groups sums of squares from a matrix of squared Euclidean distances between all pairs of individuals.
 
 ### Bottleneck
+
+Bottleneck is a program for detecting recent effective population size reductions from allele data frequencies.
 
 ### Barrier
 
@@ -58,6 +58,7 @@ If you spot any issues please raise an issue in the GitHub repository of the ana
 
 [^fn1]: Wyatt, G. E., Hamrick, J. L., & Trapnell, D. W. (2021). The role of anthropogenic dispersal in shaping the distribution and genetic composition of a widespread North American tree species. Ecology and evolution, 11(16), 11515–11532. https://doi.org/10.1002/ece3.7944
 [^fn2]: Excoffier L, Smouse PE, Quattro JM. Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data. Genetics. 1992 Jun;131(2):479-91. https://10.1093/genetics/131.2.479. PMID: 1644282; PMCID: PMC1205020.
+[^fn3]:
 [^fn3]: Edwards, A. W. F. (2008). G. H. Hardy (1908) and hardy–weinberg equilibrium. Genetics, 179, 1143–1150. https://10.1534/genetics.104.92940
 [^fn4]: Slatkin M. (2008). Linkage disequilibrium--understanding the evolutionary past and mapping the medical future. Nat Rev Genet. 9(6):477-85. https://10.1038/nrg2361. PMID: 18427557; PMCID: PMC5124487.
 
