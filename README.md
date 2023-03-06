@@ -16,7 +16,7 @@ Below are a list of methods, approaches, or softwares with links to each wiki. T
 
 ### Analysis of MOlecular VAriance (AMOVA)
 
-AMOVA is a popular method for calculating F-statistics to assess the presence of hierarchical population structure[^fn2]. An AMOVA will compare molecular variance across the different groups (i.e., populations in this case) by calculating the within and between-groups sums of squares from a matrix of squared Euclidean distances between all pairs of individuals. AMOVA can inform how much genetic differentiation there is between or among populations.
+AMOVA is a popular method for calculating F-statistics to assess the presence of hierarchical population structure[^fn2]. An AMOVA will compare molecular variance across the different groups (i.e., populations in this case) by calculating the within and between-groups sums of squares from a matrix of squared Euclidean distances between all pairs of individuals. AMOVA can inform how much genetic differentiation there is within or among populations.
 
 ### Bottleneck
 
