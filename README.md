@@ -42,7 +42,7 @@ Hardy-Weinberg Equilibrium is fundamental to populations genetics, and states th
 
 ### Expected Heterozygosity (He)
 
-Expected Heterozygosity (He or Hexp) is  describes the number of heterozygous genotypes that would be expected to be observed under Hardy-Weinberg equilibrium.
+Expected Heterozygosity (He or Hexp) is  describes the frequency of heterozygous genotypes that would be expected to be observed under Hardy-Weinberg equilibrium. Sometimes called, Gene diversity,i it is a common statistic for assessing genetic variation within populations.
 
 ### Isolation by Distance (IBD) 
 
