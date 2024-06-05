@@ -4,7 +4,6 @@
 
 
 Created by: Jennifer Mandel (PI), Michael Charles, Heather Clendenin, Erika Moore-Pollard, Paige Murin, Matthew Pollard, and Avery Tucker
-University of Memphis
 
 ## Introduction
 
