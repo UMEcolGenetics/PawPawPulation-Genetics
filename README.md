@@ -2,6 +2,10 @@
 
 ![Image PawPAw](https://github.com/UMEcolGenetics/PawPawPulation/blob/main/Analyses/Home/pawpaw.png)
 
+
+Created by: Jennifer Mandel (PI), Michael Charles, Heather Clendenin, Erika Moore-Pollard, Paige Murin, Matthew Pollard, and Avery Tucker
+University of Memphis
+
 ## Introduction
 
 This repository contains an overview of select softwares and tutorials commonly used in population genetics. The purpose in designing this directory was to establish a helpful resource for those who are relatively new to the field, those who are looking to familiarize themselves with population genetic methods, or for those considering what analyses to use in their research. This repo was built out by graduate students at the University of Memphis as part of their final project in an Ecological Genetics course (BIOL 8752/7752) during Fall 2021. We welcome comments and suggestions!
